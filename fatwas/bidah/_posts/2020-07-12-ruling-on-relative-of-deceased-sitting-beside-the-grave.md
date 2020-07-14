@@ -2,7 +2,7 @@
 layout: post
 title: "Ruling on relatives of the deceased sitting beside the grave"
 fatwa: "11057-5"
-category: ["aqidah", bidah]
+category: ["bidah", funerals]
 date: "2020-07-12"
 ---
 
