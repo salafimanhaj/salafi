@@ -2,7 +2,7 @@
 layout: post
 title: "Slaughtering sheep for the deceased"
 fatwa: "16343-1"
-category: ["aqidah", bidah]
+category: ["bidah", funerals]
 date: "2020-07-11"
 ---
 
