@@ -2,7 +2,7 @@
 layout: post
 title: "Ruling on Adhan after burying the dead in the grave"
 fatwa: "3549"
-category: ["aqidah", bidah]
+category: ["bidah", funerals]
 date: "2020-07-16"
 ---
 
@@ -12,7 +12,7 @@ In Bangladesh, we call the Adhan after burying the dead in the grave. Scholars d
 
 Answer: 
 
-It is not permissible to call the Adhan (call to Prayer) or Iqamah (call to start the Prayer) at the grave after burying the dead or before burying him. In fact, it is an act of Bid'ah (innovation in religion). It was authentically reported that the Messenger of Allah (peace be upon him) said: "Anyone who introduces anything into this matter of ours (Islam) that is not part of it will have it rejected. " Agreed upon Hadith narrated on the authority of `Aishah (may Allah be pleased with her). [1]
+It is not permissible to call the Adhan (call to Prayer) or Iqamah (call to start the Prayer) at the grave after burying the dead or before burying him. In fact, it is an act of Bid'ah (innovation in religion). It was authentically reported that the Messenger of Allah (peace be upon him) said: "Anyone who introduces anything into this matter of ours (Islam) that is not part of it will have it rejected. " Agreed upon Hadith narrated on the authority of 'Aishah (may Allah be pleased with her). [1]
 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
 
