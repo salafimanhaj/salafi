@@ -2,7 +2,7 @@
 layout: post
 title: "Ruling on placing book in the grave"
 fatwa: "3596-1"
-category: ["aqidah", bidah]
+category: ["bidah", funerals]
 date: "2020-07-16"
 ---
 
@@ -12,7 +12,7 @@ We have a strange practice and would like to know the religious ruling on it. So
 
 Answer: 
 
-It is not permissible to place any books with the dead person believing that they will make them stand firm while answering the two angels' questions. It is Allah (Glorified and Exalted be He) Alone Who makes the slave firm as He says: "Allâh will keep firm those who believe, with the word that stands firm in this world (i.e. they will keep on worshipping Allâh Alone and none else), and in the Hereafter. And Allâh will cause to go astray those who are Zâlimûn (polytheists and wrong-doers), and Allâh does what He wills." [Ibrahim: 27] Besides, this is an act of Bid`ah (innovation in religion). It is authentically reported from the Prophet (peace be upon him) that he said: "Anyone who introduces anything into this matter of ours (Islam) that is not part of it will have it rejected." [1]
+It is not permissible to place any books with the dead person believing that they will make them stand firm while answering the two angels' questions. It is Allah (Glorified and Exalted be He) Alone Who makes the slave firm as He says: "Allâh will keep firm those who believe, with the word that stands firm in this world (i.e. they will keep on worshipping Allâh Alone and none else), and in the Hereafter. And Allâh will cause to go astray those who are Zâlimûn (polytheists and wrong-doers), and Allâh does what He wills." [Ibrahim: 27] Besides, this is an act of Bid'ah (innovation in religion). It is authentically reported from the Prophet (peace be upon him) that he said: "Anyone who introduces anything into this matter of ours (Islam) that is not part of it will have it rejected." [1]
 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
 
