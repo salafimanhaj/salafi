@@ -2,7 +2,7 @@
 layout: post
 title: "Ruling on Al-Uns Salah"
 fatwa: "16128-1"
-category: ["fatwas", bidah]
+category: ["bidah", funerals]
 date: "2020-07-10"
 ---
 
@@ -12,7 +12,7 @@ What is the authenticity of Al-Uns Salah (prayer)? It is performed after Maghrib
 
 Answer: 
 
-Al-Uns Salah is one of the innovated Salah. It is an impermissible Bid`ah (innovation in religion) because acts of worship are based on divine texts. None should worship Allah except through His legislation. It was authentically reported from the Prophet (peace be upon him) that he said: "Whoever introduces something into this affair of ours that is not of it, it will be rejected." [1]
+Al-Uns Salah is one of the innovated Salah. It is an impermissible Bid'ah (innovation in religion) because acts of worship are based on divine texts. None should worship Allah except through His legislation. It was authentically reported from the Prophet (peace be upon him) that he said: "Whoever introduces something into this affair of ours that is not of it, it will be rejected." [1]
 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
 
