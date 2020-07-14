@@ -2,7 +2,7 @@
 layout: post
 title: "Ruling on Ma'tam (mourning assembly)"
 fatwa: "5275-1"
-category: ["aqidah", bidah]
+category: ["bidah", funerals]
 date: "2020-07-16"
 ---
 
@@ -14,7 +14,7 @@ Answer:
 
 The habit of holding Ma'tam and staying to meet people who come for consolation is a type of Bid'ah (innovation in religion). Neither the Prophet (peace be upon him) nor his Companions (may Allah be pleased with them) used to do this. Likewise, sleeping on the ground and the abstinence of the relatives and neighbors of the dead from applying perfume for forty days is a type of Bid'ah. 
 
-Similarly, slaughtering animals a week or forty days after the death of someone as a Sadaqah for the dead or serving meat to those who come to offer consolation is Bid`ah. So, it is Wajib (obligatory) to abandon such habits and reproach those who practice them as the Prophet (peace be upon him) said: "Anyone who introduces anything into this matter of ours (Islam) that is not part of it, will have it rejected." Agreed upon by Al-Bukhari and Muslim.[1]
+Similarly, slaughtering animals a week or forty days after the death of someone as a Sadaqah for the dead or serving meat to those who come to offer consolation is Bid'ah. So, it is Wajib (obligatory) to abandon such habits and reproach those who practice them as the Prophet (peace be upon him) said: "Anyone who introduces anything into this matter of ours (Islam) that is not part of it, will have it rejected." Agreed upon by Al-Bukhari and Muslim.[1]
 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
 
