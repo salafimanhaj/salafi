@@ -1,0 +1,18 @@
+---
+layout: page
+title: Fatwas
+---
+
+<div id="archives" style="margin-top: 30px; list-style-type:none;">
+{% for category in site.categories %}
+  <li><h4 name="{{ category.first | capitalize }}">{{ category.first | capitalize }}</h4>
+    <ul style="list-style-type:none;">
+    {% for posts in category %}
+      {% for post in posts %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    {% endfor %}
+    </ul>
+  </li>
+{% endfor %}
+</div>
