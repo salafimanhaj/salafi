@@ -2,7 +2,7 @@
 layout: post
 title: "Ruling on three pieces of clay for the dead"
 fatwa: "5728-1"
-category: ["aqidah", bidah]
+category: ["bidah", funerals]
 date: "2020-07-16"
 ---
 
@@ -12,6 +12,6 @@ When a person dies, some people in our village bring three pieces of clay. They 
 
 Answer: 
 
-We do not know any legal basis from the Book of Allah or the authentic Sunnah of the Messenger of Allah (peace be upon him) that proves what you have mentioned of putting pieces of clay under the thigh, heel or right cheek of a dead person. This is a Bid`ah (innovation in religion).
+We do not know any legal basis from the Book of Allah or the authentic Sunnah of the Messenger of Allah (peace be upon him) that proves what you have mentioned of putting pieces of clay under the thigh, heel or right cheek of a dead person. This is a Bid'ah (innovation in religion).
 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
