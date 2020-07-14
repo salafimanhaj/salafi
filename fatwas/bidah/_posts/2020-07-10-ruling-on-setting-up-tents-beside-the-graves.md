@@ -2,7 +2,7 @@
 layout: post
 title: "Ruling on setting up tents beside the graves"
 fatwa: "5848-1"
-category: ["aqidah", bidah]
+category: ["bidah", funerals]
 date: "2020-07-10"
 ---
 
