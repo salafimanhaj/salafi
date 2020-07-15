@@ -2,8 +2,15 @@
 layout: post
 title: "Ruling on Al-Uns Salah"
 fatwa: "16128-1"
-category: ["bidah", funerals]
-date: "2020-07-10"
+category: ["aqidah", bidah]
+hijri: Dhul-Qa'dah 22, 1441 AH
+date: "2020-07-13"
+muftis: 
+ - Shaykh Ibn Baz
+ - Shaykh Abdul-Razzaq Afify
+ - Abdul-Aziz Aal Ash-Shaykh 
+ - Shaykh Salih Fawzan
+ - Shaykh Bakr Abu Zayd
 ---
 
 Question: 
