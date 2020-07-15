@@ -8,7 +8,7 @@ date: "2020-07-13"
 muftis: 
  - Shaykh Ibn Baz
  - Shaykh Abdul-Razzaq Afify
- - Abdul-Aziz Aal Ash-Shaykh 
+ - Shaykh Abdul-Aziz Aal Ash-Shaykh 
  - Shaykh Salih Fawzan
  - Shaykh Bakr Abu Zayd
 ---
