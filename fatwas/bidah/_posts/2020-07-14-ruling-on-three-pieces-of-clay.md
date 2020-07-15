@@ -3,6 +3,8 @@ layout: post
 title: "Ruling on three pieces of clay for the dead"
 fatwa: "5728-1"
 category: ["bidah", funerals]
+Muftis: Shaykh Ibn Baz, Shaykh Abdul-Razzaq Afify, Abdullah ibn Ghudayyan, Abdullah ibn Qa'ud  
+source: https://www.alifta.gov.sa/En/IftaContents/PermanentCommitee/Pages/FatawaDetails.aspx?cultStr=en&View=Page&PageID=3053&PageNo=1&BookID=7
 hijri: Dhul-Qa'dah 23, 1441 AH
 date: "2020-07-14"
 ---
