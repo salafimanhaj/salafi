@@ -9,7 +9,7 @@ muftis:
  - Shaykh Ibn Baz
  - Shaykh Abdul-Razzaq al-Afify
  - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullab ibn Qa'ud 
+ - Shaykh Abdullah ibn Qa'ud 
 ---
 
 Question: 
