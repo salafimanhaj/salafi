@@ -2,7 +2,7 @@
 layout: post
 title: "Ruling on Al-Uns Salah"
 fatwa: "16128-1"
-category: ["aqidah", bidah]
+category: ["bidah", funerals]
 hijri: Dhul-Qa'dah 22, 1441 AH
 date: "2020-07-13"
 muftis: 
