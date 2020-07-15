@@ -20,11 +20,18 @@ layout: default
      {{ site.fatwa.name }}
     {% endif %}
   <br/>
+  <span>Muftis:</span>
+    {% if page.muftis %}
+        {{ page.muftis }}
+    {% else %}
+    {{ site.muftis.name }}
+    {% endif %}
+  <br/>
   <span>Published on this site:</span>
     {% if page.hijri %}
         {{ page.hijri }}
     {% else %}
-  <b>{{ site.hijri.name }}</b>
+    {{ site.hijri.name }}
     {% endif %}
     {% if page.date %}
       ( <time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time> )
