@@ -3,8 +3,8 @@ layout: post
 title: "Ruling on three pieces of clay for the dead"
 fatwa: "5728-1"
 category: ["bidah", funerals]
-hijri: Dhuʻl-Qaʻidah 25, 1441 AH
-date: "2020-07-16"
+hijri: Dhul-Qa'dah 23, 1441 AH
+date: "2020-07-14"
 ---
 
 Question: 
