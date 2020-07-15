@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Knowledge base"
-author: "Admin"
-permalink: /about/
+author: "Instagram@Alsalafiyyah"
+permalink: /faq/
 ---
 
 ### What is Salafiyyah [^1]
@@ -75,7 +75,7 @@ Shaykh Muhammad Ibn 'Abdul-Wahhab (may Allah be Merciful with him) was indeed on
 [^7]: Fatwa al-Lajnah ad-Daimah no. 6229-3
 [^8]: Fatwa al-Lajnah ad-Daimah no. 4889-3
 [^9]: Fatwa al-Lajnah ad-Daimah no. 6648-1
-[^10]: Al-Tabarani [Al-Saghir] no. 724; Al-'Aqily [Al-Du'afa] p. 2/262; Al-Tirmidhi no. 2643.
+[^10]: At-Tabarani [Jami' Al-Saghir] no. 724; Al-Tirmidhi no. 2643.
 [^11]: Fatwa al-Lajnah ad-Daimah no. 6356-5
 [^12]: Fatwa al-Lajnah ad-Daimah no. 5623-1
 [^13]: Fatwa al-Lajnah ad-Daimah no. 6265
