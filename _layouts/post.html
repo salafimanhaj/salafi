@@ -17,14 +17,14 @@ layout: default
     {% if page.fatwa %}
         {{ page.fatwa }}
     {% else %}
-        {{ site.fatwa.name }}
+     {{ site.fatwa.name }}
     {% endif %}
   <br/>
   <span>Published on this site:</span>
     {% if page.hijri %}
         {{ page.hijri }}
     {% else %}
-        {{ site.hijri.name }}
+  <b>{{ site.hijri.name }}</b>
     {% endif %}
     {% if page.date %}
       ( <time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time> )
