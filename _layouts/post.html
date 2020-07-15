@@ -4,23 +4,24 @@ layout: default
 
 <div class="post">
   <div class="post-info">
-    <span>Written by</span>
-    {% if page.author %}
-        {{ page.author }}
-    {% else %}
-        {{ site.author.name }}
-    {% endif %}
 
-    {% if page.date %}
-      <br>
-      <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
-    {% endif %}
   </div>
 
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-line"></div>
 
   {{ content }}
+  <br/>
+      <span>Fatwa of the Permanent Committe no.:</span>
+    {% if page.fatwa %}
+        {{ page.fatwa }}
+    {% else %}
+        {{ site.fatwa.name }}
+    {% endif %}
+    {% if page.date %}
+      <br>
+      <span>Update on this site:&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+    {% endif %}
 </div>
 
 {% if page.comments %}
