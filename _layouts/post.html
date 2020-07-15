@@ -11,14 +11,15 @@ layout: default
   <div class="post-line"></div>
 
   {{ content }}
-  <br/>
+  <hr/>
     <span><a href="https://www.alifta.gov.sa/" target="_blank">Fatwas of the Permanent Committee</a> no.:</span>
     {% if page.fatwa %}
         {{ page.fatwa }}
     {% else %}
         {{ site.fatwa.name }}
     {% endif %}
-  <span>Published on:</span>
+  <br/>
+  <span>Published on this site:</span>
     {% if page.hijri %}
         {{ page.hijri }}
     {% else %}
