@@ -33,9 +33,6 @@ layout: default
     {% else %}
     {{ site.hijri.name }}
     {% endif %}
-    {% if page.date %}
-      ( <time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time> )
-    {% endif %}
 </div>
 
 {% if page.comments %}
