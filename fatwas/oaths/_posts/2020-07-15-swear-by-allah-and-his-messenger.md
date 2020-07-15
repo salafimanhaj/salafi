@@ -2,7 +2,7 @@
 layout: post
 title: "Ruling on swearing by Allah and His Messenger"
 fatwa: "5611-11"
-category: ["bidah", funerals]
+category: ["oaths", vows]
 hijri: Dhul-Qa'dah 25, 1441 AH
 muftis: 
  - Shaykh Ibn Baz
