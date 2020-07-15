@@ -18,15 +18,14 @@ layout: default
     {% else %}
         {{ site.fatwa.name }}
     {% endif %}
-    {% if page.date %}
-      <br>
-      <span>Published on this site:</span> <time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
-    {% endif %}
   <span>Published on:</span>
     {% if page.hijri %}
         {{ page.hijri }}
     {% else %}
         {{ site.hijri.name }}
+    {% endif %}
+    {% if page.date %}
+      ( <time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time> )
     {% endif %}
 </div>
 
