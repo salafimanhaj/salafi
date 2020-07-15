@@ -1,9 +1,15 @@
 ---
 layout: post
-title: "Ruling on Ma'tam (mourning assembly)"
+title: "Ruling on sleeping on the ground for forty days as mourning over the dead"
 fatwa: "5275-1"
 category: ["bidah", funerals]
+hijri: Dhul-Qa'dah 25, 1441 AH
 date: "2020-07-16"
+muftis: 
+ - Shaykh Ibn Baz
+ - Shaykh Abdul-Razzaq Afify
+ - Shaykh Abdullah ibn Ghudayyan
+ - Shaykh Abdullah ibn Qa'ud
 ---
 
 Question: 
@@ -19,3 +25,5 @@ Similarly, slaughtering animals a week or forty days after the death of someone 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
 
 [1] Sahih Al-Bukhari [Book on reconciliation] no. 2697; Sahih Muslim [Book on judicial decisions] no. 1718; Abu Dawud[Book on Al-Sunnah] no. 4606; Ibn Majah [Introduction] no. 14; Musnad Ahmad p. 6/240.
+
+
