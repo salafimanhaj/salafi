@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on three pieces of clay for the dead"
 fatwa: "5728-1"
 category: ["bidah", funerals]
-Muftis: 
+muftis: 
  - Shaykh Ibn Baz
  - Shaykh Abdul-Razzaq Afify
  - Shaykh Abdullah ibn Ghudayyan
