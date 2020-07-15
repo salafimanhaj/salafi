@@ -21,7 +21,7 @@ layout: default
     {% endif %}
   <br/>
   <span>Muftis:</span>
-    {% if page.muftis %}
+    {% if page.muftis  | split: "/" %}
     {{ page.muftis }}
     {% else %}
     {{ site.muftis.name | inspect }}
