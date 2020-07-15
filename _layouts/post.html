@@ -22,9 +22,10 @@ layout: default
   <br/>
   <span>Muftis:</span>
     {% if page.muftis %}
-    {{ page.muftis }}
+    {{ page.muftis}}
     {% else %}
-    "{{ site.muftis.name | inspect}}" {% unless forloop.last %},{% endunless %}
+    {{ site.muftis.name | inspect}}
+    {{ site.muftis.name | first }}{% unless forloop.last %},{% endunless %}
     {% endif %}
   <br/>
   <span>Published on this site:</span>
