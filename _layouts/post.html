@@ -21,11 +21,10 @@ layout: default
     {% endif %}
   <br/>
   <span>Muftis:</span>
-    {% if page.muftis %}
+    {% if page.muftis | split: ',' | sort %}
     {{ page.muftis}}
     {% else %}
-    {{ site.muftis.name | inspect}}
-    {{ site.muftis.name | first }}{% unless forloop.last %},{% endunless %}
+    {{ site.muftis.name}}
     {% endif %}
   <br/>
   <span>Published on this site:</span>
