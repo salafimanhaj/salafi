@@ -31,7 +31,8 @@ layout: default
     {% if page.muftis%}
     {{ page.muftis}}
     {% else %}
-    {{ site.muftis.name | split: ',' }}
+    {{ site.muftis.name }}
+    {% unless forloop.last %},
     {% endif %}
   </li>
   <li>
