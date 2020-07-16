@@ -31,15 +31,10 @@ layout: default
   <span>Muftis:</span>
     
     {% for muftis in site.pages %}
-    {{ page.muftis}}
+    {{ site.muftis.name}}
     {% if forloop.last %}{% else %},{% endif %}
     {% endfor %}
     
-    {% if page.muftis  | split: ',' %}
-    {{ page.muftis}}
-    {% else %}
-    {{ site.muftis.name}}
-    {% endif %}
   </li>
   <li>
   <span>Published on this site:</span>
