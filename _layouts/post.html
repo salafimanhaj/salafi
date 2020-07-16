@@ -13,31 +13,35 @@ layout: default
   {{ content }}
   <br/><br/>
   <hr/>
+  <li>
     {% if page.founder %}
         {{ page.founder }}
     {% else %}
      {{ site.founder.name }}
     {% endif %}
-    <span>no.:</span>
+    <span>no.</span>
     {% if page.fatwa %}
         {{ page.fatwa }}
     {% else %}
      {{ site.fatwa.name }}
     {% endif %}
-  <br/>
+  </li>
+  <li>
   <span>Muftis:</span>
-    {% if page.muftis %}
+    {% if page.muftis  | split: ',' %}
     {{ page.muftis}}
     {% else %}
-    {{ site.muftis.name | split: ',' | sort}}
+    {{ site.muftis.name}}
     {% endif %}
-  <br/>
+  </li>
+  <li>
   <span>Published on this site:</span>
     {% if page.hijri %}
         {{ page.hijri }}
     {% else %}
     {{ site.hijri.name }}
     {% endif %}
+  </li>
 </div>
 
 {% if page.comments %}
