@@ -1,19 +1,19 @@
 ---
 layout: post
 title: "Refuting the claims against Shaykhul-Islam Muhammad ibn 'Abdul-Wahhab and his Da'wah (calling to Islam)"
-founder: "Majmu' fatawa al-Shaykh ibn Baz p.9/234"
-fatwa: "16128-1"
+founder: "Majmu' fatawa al-Shaykh ibn Baz"
+fatwa: "9/234"
 category: wahhabism
-hijri: "2020-07-10"
-muftis: "Shaykh ibn Baz"
+hijri: Dhul-Qa'dah 20, 1441 AH
+muftis: Shaykh ibn Baz
 ---
 
 Question: 
 
-What is the ruling on someone who attacks and slanders Imam Muhammad Ibn `Abdul-Wahhab (may Allah be merciful to him) and his Call, calling him a Mubtadi` (one who introduces innovations in religion) and an innovator of a fifth Madh-hab (School of Jurisprudence) and calling his followers Wahhabis? There are many false accusations made against the Imam.
+What is the ruling on someone who attacks and slanders Imam Muhammad Ibn 'Abdul-Wahhab (may Allah be merciful to him) and his Call, calling him a Mubtadi' (one who introduces innovations in religion) and an innovator of a fifth Madh-hab (School of Jurisprudence) and calling his followers Wahhabis? There are many false accusations made against the Imam.
 
 Answer: 
 
 This shows the claimer's ignorance. Those who opposed the Shaykh were of two types; Mushriks (those who associate others with Allah in His Divinity or worship) and they opposed him for calling to Tawhid (belief in the Oneness of Allah). They were misguided Mushriks. Others are ignorant people who were deceived by callers to falsehood whom they imitated blindly or unjustly. 
 
-For example, Mushriks opposed the messengers of Allah and fought their Da`wah (calling to Islam) out of ignorance and misguidance. Others, like the Jews, intentionally opposed Allah's messengers and their Da`wah out of their envy, injustice and desire to follow their whims. May Allah save us! 
+For example, Mushriks opposed the messengers of Allah and fought their Da'wah (calling to Islam) out of ignorance and misguidance. Others, like the Jews, intentionally opposed Allah's messengers and their Da'wah out of their envy, injustice and desire to follow their whims. May Allah save us! 
