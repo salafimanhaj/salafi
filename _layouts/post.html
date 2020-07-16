@@ -28,11 +28,11 @@ layout: default
     {% endif %}
   </li>
   <li>
-
-    {% for muftis in page.muftis %}
-    {% if forloop.last %}{{site.muftis.name}}{% else %},{% endif %}
-    {% endfor %}
-    
+    {% if page.muftis%}
+    {{ page.muftis}}
+    {% else %}
+    {{ site.muftis.name | split: ',' }}
+    {% endif %}
   </li>
   <li>
   <span>Published on this site:</span>
