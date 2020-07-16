@@ -29,11 +29,12 @@ layout: default
   </li>
   <li>
   <span>Muftis:</span>
+    {% if page.muftis %}
+    {{ page.muftis}}
+    {% else %}
+    {{ site.muftis.name | handleize}}
+    {% endif %}
     
-    {% for muftis in site.pages %}
-    {{ site.muftis.name}}
-    {% if forloop.last %}{% else %},{% endif %}
-    {% endfor %}
     
   </li>
   <li>
