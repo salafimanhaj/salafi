@@ -32,7 +32,7 @@ layout: default
     {% if page.muftis %}
     {{ page.muftis}}
     {% else %}
-    {{ site.muftis.name | handleize}}
+    {{ site.muftis.name | split:" " }}
     {% endif %}
     
     
