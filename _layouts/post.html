@@ -28,10 +28,10 @@ layout: default
     {% endif %}
   </li>
   <li>
-    {% if page.muftis%}
-    {{ page.muftis}}
+    {% if page.muftis %}
+    {{ page.muftis  | sort | join: ", "}}
     {% else %}
-    <li>{{ site.muftis.name  | sort | join: ", " }}</li>
+    {{ site.muftis.name  | sort | join: ", " }}
     {% endif %}
   </li>
   <li>
