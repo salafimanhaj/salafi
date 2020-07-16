@@ -30,8 +30,7 @@ layout: default
   <li>
 
     {% for muftis in page.muftis %}
-    {{ muftis.name}}
-    {% if forloop.last %}{% else %},{% endif %}
+    {% if forloop.last %}{{ muftis.name}}{% else %},{% endif %}
     {% endfor %}
     
   </li>
