@@ -29,6 +29,12 @@ layout: default
   </li>
   <li>
   <span>Muftis:</span>
+    
+    {% for muftis in site.pages %}
+    {{ site.muftis.name}}
+    {% if forloop.last %}{% else %},{% endif %}
+    {% endfor %}
+    
     {% if page.muftis  | split: ',' %}
     {{ page.muftis}}
     {% else %}
