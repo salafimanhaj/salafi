@@ -28,11 +28,10 @@ layout: default
     {% endif %}
   </li>
   <li>
-  <span>Muftis:</span>
     {% if page.muftis %}
     {{ page.muftis}}
     {% else %}
-    {{ site.muftis.name | split:" " }}
+    {{ site.muftis.name | append:'Muftis' | split:"" }}
     {% endif %}
     
     
