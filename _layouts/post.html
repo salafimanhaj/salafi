@@ -29,9 +29,9 @@ layout: default
   </li>
   <li>
     {% if page.muftis %}
-    {{ page.muftis  | sort | join: ", "}}
+    {{ page.muftis | join: ", "}}
     {% else %}
-    {{ site.muftis.name  | sort | join: ", " }}
+    {{ site.muftis.name | join: ", " }}
     {% endif %}
   </li>
   <li>
