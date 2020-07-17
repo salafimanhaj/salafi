@@ -33,12 +33,13 @@ layout: default
      {{ site.fatwa.name }}
     {% endif %}
   </li>
-  <li>
+    <li>✍️ </span>
     {% if page.muftis %}
     {{ page.muftis | join: ", "}}
     {% else %}
     {{ site.muftis.name | join: ", " }}
     {% endif %}
+  </span>
   </li>
   <li>
   <span>Published on:</span>
