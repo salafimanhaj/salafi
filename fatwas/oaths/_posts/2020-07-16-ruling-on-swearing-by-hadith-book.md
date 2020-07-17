@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Ruling on swearing by Al-Bukhari's Book of Hadith"
-category: oaths and vows
-founder: "Fatwas of the Permanent Committee of KSA"
-fatwa: "18379"
+publisher: "alsalafiyyah@icloud.com"
+source: "Fatwas of the Permanent Committee of KSA no.18379"
+category: oaths
 hijri: Dhul-Qa'dah 25, 1441 AH
-muftis: 
+shaykhs: 
  - Shaykh Ibn Baz
  - Shaykh Abdul-Aziz Aal-Ash-Shaykh
  - Shaykh Abdullah ibn Ghudayyan

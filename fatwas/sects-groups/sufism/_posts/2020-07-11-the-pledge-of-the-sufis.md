@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "The pledge of Sufis"
+publisher: "alsalafiyyah@icloud.com"
 category: sufism
-founder: "Fatwas of the Permanent Committee of KSA"
-fatwa: "11056-3"
+source: "Fatwas of the Permanent Committee of KSA no.11056-3"
 hijri: Dhul-Qa'dah 20, 1441 AH
-muftis: 
+shaykhs: 
  - Shaykh Abdul-Aziz bin Baz
  - Shaykh Abdul-Razzaq al-Afify
  - Shaykh Abdullah ibn Ghudayyan

@@ -1,11 +1,11 @@
----
+﻿---
 layout: post
 title: "Sufis who beat themselves with skewers"
+publisher: "alsalafiyyah@icloud.com"
 category: sufism
-founder: "Fatwas of the Permanent Committee of KSA"
-fatwa: "18466-1"
+source: "Fatwas of the Permanent Committee of KSA no. 18466-1"
 hijri: Dhul-Qa'dah 20, 1441 AH
-muftis: 
+shaykhs: 
  - Shaykh Ibn Baz
  - Shaykh Abdul-Aziz Aal Al-Shaykh
  - Shaykh Salih Fawzan

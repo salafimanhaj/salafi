@@ -1,11 +1,11 @@
----
+﻿---
 layout: post
 title: "Ruling on a wife of the deceased wears a white dress and does not take a bath"
-fatwa: "17976-1"
+publisher: "alsalafiyyah@icloud.com"
+source: "Fatwas of the Permanent Committee of KSA no.17976-1"
 category: ["bidah", funerals]
 hijri: Dhul-Qa'dah 21, 1441 AH
-date: "2020-07-12"
-muftis: 
+shaykhs: 
  - Shaykh Ibn Baz
  - Shaykh Abdul-Aziz Aal ash-Shaykh
  - Shaykh Abdullah ibn Ghudayyan

@@ -1,11 +1,11 @@
----
+﻿---
 layout: post
 title: "Ruling on Adhan after burying the dead in the grave"
-fatwa: " 3549"
+publisher: "alsalafiyyah@icloud.com"
+source: "Fatwas of the Permanent Committee of KSA no.3549"
 category: ["bidah", funerals]
 hijri: Dhul-Qa'dah 25, 1441 AH
-date: "2020-07-16"
-muftis: 
+shaykhs: 
  - Shaykh Ibn Baz
  - Shaykh Abdul-Razzaq al-Afify
  - Shaykh Abdullah ibn Ghudayyan

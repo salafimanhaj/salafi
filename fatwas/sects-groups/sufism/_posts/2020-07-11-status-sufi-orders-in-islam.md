@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Status of the Sufi orders in Islam"
+publisher: "alsalafiyyah@icloud.com"
 category: sufism
-founder: "Fatwas of the Permanent Committee of KSA"
-fatwa: "16862"
+source: "Fatwas of the Permanent Committee of KSA no. 16862"
 hijri: Dhul-Qa'dah 20, 1441 AH
-muftis: 
+shaykhs: 
  - Shaykh Ibn Baz
  - Shaykh Abdul-Aziz Aal Al-Shaykh
  - Shaykh Salih Fawzan

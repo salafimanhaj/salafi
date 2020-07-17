@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Ruling on swearing by Allah and His Messenger"
+publisher: "alsalafiyyah@icloud.com"
+source: "Fatwas of the Permanent Committee of KSA no.5611-11"
 category: oaths and vows
-founder: "Fatwas of the Permanent Committee of KSA"
-fatwa: "5611-11"
 hijri: Dhul-Qa'dah 25, 1441 AH
-muftis: 
+shaykhs: 
  - Shaykh Ibn Baz
  - Shaykh Abdul-Razzaq al-Afify
  - Shaykh Abdullah ibn Ghudayyan

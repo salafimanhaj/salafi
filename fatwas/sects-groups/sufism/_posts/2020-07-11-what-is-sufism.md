@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "What is Sufism"
+publisher: "alsalafiyyah@icloud.com"
 category: sufism
-founder: "Fatwas of the Permanent Committee of KSA"
-fatwa: "17558-2"
+source: "Fatwas of the Permanent Committee of KSA no. 17558-2"
 hijri: Dhul-Qa'dah 20, 1441 AH
-muftis: 
+shaykhs: 
  - Shaykh Ibn Baz
  - Shaykh Abdul-Aziz Aal Al-Shaykh
  - Shaykh Salih Fawzan

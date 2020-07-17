@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "The pledge taken from a Sufi Shaykh"
+publisher: "alsalafiyyah@icloud.com"
 category: sufism
-founder: "Fatwas of the Permanent Committee of KSA"
-fatwa: "16098-2"
+source: "Fatwas of the Permanent Committee of KSA no.16098-2"
 hijri: Dhul-Qa'dah 20, 1441 AH
-muftis: 
+shaykhs: 
  - Shaykh Abdul-Aziz bin Baz
  - Shaykh Abdul-Razzaq al-Afify
  - Shaykh Abdul-Aziz Aal ash-Shaykh

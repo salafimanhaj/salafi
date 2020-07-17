@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Is it correct that Hanbalis are the only Salafis"
+publisher: "alsalafiyyah@icloud.com"
 category: hanbalis, binbaz
-founder: "Majmu' fatawa of Shaykh ibn Baz"
-fatwa: "9/238"
+source: "Majmu' fatawa of Shaykh ibn Baz 9/238"
 hijri: Dhul-Qa'dah 26, 1441 AH
-muftis: Shaykh ibn Baz
+source: Shaykh ibn Baz
 ---
 
 Question:

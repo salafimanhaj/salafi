@@ -1,11 +1,11 @@
----
+﻿---
 layout: post
 title: "Origin and the creeds of Sufism"
+publisher: "alsalafiyyah@icloud.com"
 category: sufism
-founder: "Fatwas of the Permanent Committee of KSA"
-fatwa: "19521"
+source: "Fatwas of the Permanent Committee of KSA no.19521"
 hijri: Dhul-Qa'dah 20, 1441 AH
-muftis: 
+shaykhs: 
  - Shaykh Abdul-Aziz bin Baz
  - Shaykh Abdul-Aziz Aal ash-Shaykh
  - Shaykh Salih Fawzan

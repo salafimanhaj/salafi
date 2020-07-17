@@ -1,11 +1,11 @@
----
+﻿---
 layout: post
 title: "The followers of Sufism stance on their shaykhs"
+publisher: "alsalafiyyah@icloud.com"
+source: "Fatwas of the Permanent Committee of KSA no.21025-3"
 category: sufism
-founder: "Fatwas of the Permanent Committee of KSA"
-fatwa: "21025-3"
 hijri: Dhul-Qa'dah 20, 1441 AH
-muftis: 
+shaykhs: 
  - Shaykh Abdul-Aziz Aal Al-Shaykh
  - Shaykh Salih Fawzan
  - Shaykh Bakr abu Zayd

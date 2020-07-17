@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Ruling on Al-Uns Salah"
-fatwa: "16128-1"
+publisher: "alsalafiyyah@icloud.com"
+source: "Fatwas of the Permanent Committee of KSA no.16128-1"
 category: ["bidah", funerals]
 hijri: Dhul-Qa'dah 22, 1441 AH
-date: "2020-07-13"
-muftis: 
+shaykhs: 
  - Shaykh Ibn Baz
  - Shaykh Abdul-Razzaq Afify
  - Shaykh Abdul-Aziz Aal Ash-Shaykh 

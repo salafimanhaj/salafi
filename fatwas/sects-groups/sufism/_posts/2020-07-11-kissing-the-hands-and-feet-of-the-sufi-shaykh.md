@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Ruling on kissing the hands and feet of the Sufi Shaykh"
+publisher: "alsalafiyyah@icloud.com"
 category: sufism
-founder: "Fatwas of the Permanent Committee of KSA"
-fatwa: "-11"
+source: "Fatwas of the Permanent Committee of KSA, question 11"
 hijri: Dhul-Qa'dah 20, 1441 AH
-muftis: 
+shaykhs: 
  - Shaykh Ibn Baz
  - Shaykh Abdul-Razzaq al-Afify
  - Shaykh Abdullah ibn Ghudayyan

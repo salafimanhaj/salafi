@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 ---
 
@@ -21,25 +21,12 @@ layout: default
     {{ site.source.name}}
     {% endif %}
   </li>
-  <li>
-    {% if page.founder %}
-        {{ page.founder }}
+    <li>
+    {% if page.shaykhs %}
+    {{ page.shaykhs | join: ", "}}
     {% else %}
-     {{ site.founder.name }}
-    {% endif %} 
-    {% if page.fatwa %}
-        {{ page.fatwa }}
-    {% else %}
-     {{ site.fatwa.name }}
+    {{ site.shaykhs.name | join: ", " }}
     {% endif %}
-  </li>
-    <li>✍️ </span>
-    {% if page.muftis %}
-    {{ page.muftis | join: ", "}}
-    {% else %}
-    {{ site.muftis.name | join: ", " }}
-    {% endif %}
-  </span>
   </li>
   <li>
   <span>Published on:</span>

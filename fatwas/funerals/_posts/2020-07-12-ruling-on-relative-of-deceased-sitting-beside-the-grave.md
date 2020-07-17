@@ -1,11 +1,11 @@
----
+﻿---
 layout: post
 title: "Ruling on relatives of the deceased sitting beside the grave"
-fatwa: "11057-5"
+publisher: "alsalafiyyah@icloud.com"
+source: "Fatwas of the Permanent Committee of KSA no.11057-5"
 category: ["bidah", funerals]
 hijri: Dhul-Qa'dah 8, 1441 AH
-date: "2020-07-9"
-muftis: 
+shaykhs: 
  - Shaykh Ibn Baz
  - Shaykh Abdul-Razzaq al-Afify
  - Shaykh Abdullah ibn Ghudayyan

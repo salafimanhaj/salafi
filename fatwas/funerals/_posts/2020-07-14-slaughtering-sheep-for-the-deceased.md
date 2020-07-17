@@ -1,11 +1,11 @@
----
+﻿---
 layout: post
 title: "Ruling on slaughtering sheep for the deceased"
-fatwa: "16343-1"
+publisher: "alsalafiyyah@icloud.com"
+source: "Fatwas of the Permanent Committee of KSA no.16343-1"
 category: ["bidah", funerals]
 hijri: Dhul-Qa'dah 23, 1441 AH
-date: "2020-07-14"
-muftis: 
+shaykhs: 
  - Shaykh Ibn Baz
  - Shaykh Abdul-Razzaq al-Afify
  - Shaykh Abdul-Aziz Aal ash-Shaykh

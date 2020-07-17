@@ -1,11 +1,11 @@
----
+﻿---
 layout: post
 title: "Ruling on placing book in the grave"
-fatwa: "3596-1"
+publisher: "alsalafiyyah@icloud.com"
+source: "Fatwas of the Permanent Committee of KSA no.3596-1"
 category: ["bidah", funerals]
 hijri: Dhul-Qa'dah 9, 1441 AH
-date: "2020-07-10"
-muftis: 
+shaykhs: 
  - Shaykh Ibn Baz
  - Shaykh Abdul-Razzaq al-Afify
  - Shaykh Abdullah ibn Ghudayyan
