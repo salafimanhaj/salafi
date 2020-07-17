@@ -2,7 +2,7 @@
 layout: post
 title: "Why are the Sufis interested in pronouncing the name of Allah rather than referring to His Attributes"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa Shaykh Ibn Baz"
+source: "Majmu' Fatawa Shaykh Ibn Baz 8/"
 category: sufism
 hijri: Dhul-Qa'dah 20, 1441 AH
 shaykhs: Shaykh ibn Baz
