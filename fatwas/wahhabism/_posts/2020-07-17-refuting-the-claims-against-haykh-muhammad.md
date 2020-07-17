@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Refuting the claims against Shaykhul-Islam Muhammad ibn 'Abdul-Wahhab and his Da'wah (calling to Islam)"
+title: "Refuting the claims against Shaykh Muhammad ibn Abdul-Wahhab and his Da'wah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh ibn Baz 9/234"
 category: [wahhabism, binbaz]
