@@ -61,6 +61,11 @@ The only way to Jannah (Paradise) is the way followed by Prophet Muhammad (peace
 
 Shaykh Muhammad Ibn 'Abdul-Wahhab (may Allah be Merciful with him) was indeed one of the great callers to Salafiyyah (following the way of the righteous predecessors), and to the sound ‘Aqidah (creed) and the morally correct, upright method. His books abound with these aspects.The above-mentioned claim made by an antagonist to the Shaykh’s call: that he deviated from the truth at the end of his life by denying authentic Hadiths that did not agree with his own views, is a lie fabricated against him. To the day he died, the Shaykh remained one of the strongest adherents to the Sunnah, and retained his deep veneration for it and kept calling people to it, may Allah be merciful to him. [^12]
 
+##### See also:
+- <a href="/refuting-the-claims-against-haykh-muhammad">Refuting the claims against Shaykh Muhammad ibn Abdul-Wahhab and his Da'wah</a>
+- <a href="/is-it-true-wahhabism-antagonizes-ahlul-bayt-and-criticizes-the-prophet">Is it true that Wahhabism antagonizes Ahlul-Bayt and criticizes the Prophet</a>
+- <a href="/are-hanabilah-the-only-salafis">Is it correct that Hanbalis are the only Salafis</a>
+
 
 ---
 
