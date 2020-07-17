@@ -2,9 +2,7 @@
 layout: post
 title: "Refuting the claims against Shaykhul-Islam Muhammad ibn 'Abdul-Wahhab and his Da'wah (calling to Islam)"
 publisher: "alsalafiyyah@icloud.com"
-founder: "Majmu' fatawa al-Shaykh ibn Baz"
 source: "Majmu' Fatawa Shaykh ibn Baz 9/234"
-fatwa: "9/234"
 category: [wahhabism, binbaz]
 date: 2020-07-17
 hijri: Dhul-Qa'dah 26, 1441 AH
