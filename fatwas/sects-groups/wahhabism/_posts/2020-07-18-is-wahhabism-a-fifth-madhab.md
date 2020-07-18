@@ -2,7 +2,7 @@
 layout: post
 title: "Is Wahhabism a fifth Madhab?"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa Shaykh Ibn Baz vol 1"
+source: "Majmu' Fatawa Shaykh Ibn Baz 1/374"
 category: [wahhabism, binbaz]
 hijri: Dhul-Qa'dah 27, 1441 AH
 shaykhs: Shaykh ibn Baz
@@ -10,7 +10,7 @@ shaykhs: Shaykh ibn Baz
 
 Question:
 
-You asked about Wahhabism and whether it is a fifth Madhab (School of Jurisprudence) or follows one of the four Madhabs.
+What is Wahhabism? is it a fifth Madhab (School of Jurisprudence) or follows one of the four Madhabs?
 
 Answer:
 
