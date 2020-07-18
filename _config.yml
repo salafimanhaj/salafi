@@ -32,7 +32,7 @@ plugins:
   # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
-
+permalink:      /:lang/:title
 paginate:       5
 
 # Excludes
