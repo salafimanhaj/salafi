@@ -84,6 +84,18 @@ Zakah is obligatory upon every Muslim who possesses any quantity of Nisab (the m
 
 Zakah must be paid to its recipients exactly according to the categories mentioned in the Noble Qur'an in Surah At-Tawbah. Allah (Glorified be He) says: "**As-Sadaqât (here it means Zakât) are only for the Fuqarâ’ (poor), and the Masâkin (needy) and those employed to collect (the funds), and to attract the hearts of those who have been inclined (towards Islâm), and to free the captives, and for those in debt, and for Allâh’s Cause, and for the wayfarer (a traveller who is cut off from everything); a duty imposed by Allâh.**" [at-Tawbah: 60]
 
+### The fourth pillar: Observing Sawm (Fast) during Ramadan.
+
+Allah (Glorified be He) says: "**O you who believe! Observing As-Saum (the fasting) is prescribed for you as it was prescribed for those before you, that you may become Al-Muttaqûn (the pious - See V.2: 2).**" [al-Baqaarah: 183] Sawm conditions a Muslim by denying him permitted pleasures and desires for a period of time, and it has health benefits as well as spiritual ones. When observing Sawm, Muslims experience the hunger felt by Muslim brothers who may find neither food nor drink for days, as is the case with some of our Muslim brothers in Africa now.
+
+Ramadan is the best of all months in which Allah revealed the Noble Qur'an. Allah, the Exalted, states, "**The month of Ramadan in which was revealed the Qur’ân, a guidance for mankind and clear proofs for the guidance and the criterion (between right and wrong).**" [al-Baqarah: 185] 
+
+It includes a night which is better than a thousand months. Allah (Glorified be He) says: "**Verily, We have sent it (this Qur’ân) down in the night of Al-Qadr (Decree). And what will make you know what the night of Al-Qadr (Decree) is? The night of Al-Qadr (Decree) is better than a thousand months (i.e. worshipping Allâh in that night is better than worshipping Him a thousand months, i.e. 83 years and 4 months).**" [al-Qadr: 1-3 
+
+Whoever observes Sawm (during this month) out of firm belief and hope for Allah's reward, all his past sins will be forgiven. It is authentically reported that Abu Hurayrah (may Allah be pleased with him) narrated that the Messenger of Allah (peace be upon him) stated, "Whoever fasts the month of Ramadan out of sincere Faith hoping for a reward from Allah, then all his past sins will be forgiven. Whoever observes the night Prayer during Ramadan because of faith and seeking reward from Allah, his past sins will be forgiven; and whoever stands for prayers in the night of Qadr out of sincere Faith and hoping for a reward from Allah, then all his previous sins will be forgiven ." (Agreed upon by Al-Bukhari and Muslim) [^10].
+
+It is obligatory upon a person who observes Sawm to preserve his Sawm by abstaining from Ghibah (backbiting), Namimah (tale-bearing), lying, and idle diversions. He should beware of all other prohibitions. He should recite more of the Noble Qur'an, increase the remembrance of Allah, and exert greater effort in performing acts of worship especially in the last ten days of Ramadan.
+
 
 ---
 
@@ -96,4 +108,6 @@ Zakah must be paid to its recipients exactly according to the categories mention
 [^7]: Abu Dawud, Sunan, Book on Salah, no. 551; and Ibn Majah, Sunan, Book on Masjids and congregations, no. 793.
 [^8]: Al-Nasa'i, Sunan, Book on consorting with one*s women, no. 3940; and Ahmad ibn Hanbal, Musnad, vol. 3, p. 285.
 [^9]: Abu Dawud, Sunan, Book on manners, no. 4985; and Ahmad ibn Hanbal, Musnad, vol. 5, p. 371.
+[^10]: Al-Bukhari, Sahih, Book on Tarawih Prayer, no. 2014; Muslim, Sahih, Book on travelers* Salah and Salah shortening, no. 760; Al-Tirmidhy, Sunan, Book on fasting, no. 683; Al-Nasa'i, Sunan, Book on fasting, no. 2202; and Ahmad ibn Hanbal, Musnad, vol. 2, p. 241.
+
 
