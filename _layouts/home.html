@@ -7,11 +7,11 @@ layout: default
     <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
       <div>
         <time datetime="{{ post.hijri }}" class="catalogue-time">{{ post.hijri | post.hijri.name }}</time>
-        <h3 class="catalogue-title">{{ post.title }}</h3>
+        <h3 class="catalogue-title">{{ post.title.lang }}</h3>
         <div class="catalogue-line"></div>
 
         <p>
-          {{ post.content | strip_html | truncatewords: 30 }}
+          {{ post.content.lang | strip_html | truncatewords: 30 }}
         </p>
 
       </div>
