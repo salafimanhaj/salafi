@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A warning statement concerning Rashad Khalifa's denial of the Purified Sunnah"
+title: "Warning against Rashad Khalifa's denial of the Purified Sunnah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh Ibn Baz 2/"
 category: [refutals, binbaz]
