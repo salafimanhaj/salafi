@@ -2,7 +2,7 @@
 layout: post
 title: "Do Wahhabis deny Shafa'ah (intercession)"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa Shaykh Ibn Baz vol 1"
+source: "Majmu' Fatawa Shaykh Ibn Baz 1/374"
 category: [wahhabism, binbaz]
 hijri: Dhul-Qa'dah 27, 1441 AH
 shaykhs: Shaykh ibn Baz
