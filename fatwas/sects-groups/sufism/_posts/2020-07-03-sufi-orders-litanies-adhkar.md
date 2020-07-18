@@ -26,6 +26,8 @@ As to the false claim that some people entered upon Al-Kattany and saw the Proph
 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
 
+---
+
 [^1]: Refer to Chapter on Al-Tariqah Al-Tijaniyyah, p. 315
 [^2]: Musnad Imam Ahmad, vol. 1, pp. 281, 282, 295, and 296, vol. 2, pp. 264 and 540, and vol. 3, pp. 2, 10, 11, 33, 144, and 145; Imam Muslim no. 2278; Abu Dawud [Al-Sunan] no. 4673; Al-Tirmidhi no. 3693.
 
