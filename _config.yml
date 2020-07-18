@@ -4,8 +4,6 @@ description:    "Salafi manhaj"
 baseurl:        "/"
 url:            "https://salafimanhaj.github.io"
 
-lang: ["en", "ar"]
-
 collections:
    en:
      output: true
@@ -13,7 +11,13 @@ collections:
    ar:
      output: true
      permalink: /ar/:title
-      
+
+scope:
+  path: "en"
+values:
+  permalink: "/en/:title"
+  lang: "en"
+  
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
