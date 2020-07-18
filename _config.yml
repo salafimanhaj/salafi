@@ -6,6 +6,14 @@ url:            "https://salafimanhaj.github.io"
 
 lang: ["en", "ar"]
 
+collections:
+   en:
+     output: true
+     permalink: /:path/
+   ar:
+     output: true
+     permalink: /:path/
+     
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
@@ -32,7 +40,7 @@ plugins:
   # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
-permalink:      pretty
+permalink: /:collection/:path/
 paginate:       5
 
 # Excludes
