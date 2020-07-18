@@ -9,10 +9,10 @@ lang: ["en", "ar"]
 collections:
    en:
      output: true
-     permalink: /:path/
+     permalink: /:path/:title
    ar:
      output: true
-     permalink: /:path/
+     permalink: /:path/:title
      
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
@@ -40,7 +40,7 @@ plugins:
   # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
-permalink: /:collection/:path/
+permalink: /:collection/:path/:title
 paginate:       5
 
 # Excludes
