@@ -1,6 +1,7 @@
----
+﻿---
 layout: post
 title: "Do Wahhabis deny Shafa'ah (intercession)"
+lang: en
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh Ibn Baz 1/374"
 category: [wahhabism, binbaz]

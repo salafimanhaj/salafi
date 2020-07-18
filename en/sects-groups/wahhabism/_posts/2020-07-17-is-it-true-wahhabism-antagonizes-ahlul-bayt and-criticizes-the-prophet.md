@@ -1,6 +1,7 @@
 ﻿---
 layout: post
 title: "Is it true that Wahhabism criticizes the Prophet and his family"
+lang: en
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh ibn Baz 9/238"
 category: [wahhabism, binbaz]
