@@ -4,6 +4,8 @@ description:    "Salafi manhaj"
 baseurl:        "/"
 url:            "https://salafimanhaj.github.io"
 
+lang: ["en", "ar"]
+
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
