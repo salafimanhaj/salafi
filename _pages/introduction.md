@@ -5,7 +5,7 @@ author: "Instagram@Alsalafiyyah"
 permalink: /introduction/
 ---
 
-### Islam and its merits
+# Islam and its merits
 
 All praise is due to Allah. May peace and blessings be upon the Last Prophet. 
 
