@@ -38,8 +38,29 @@ Allah (Glorified be He) also says: "**And if you ask them who created them, they
 
 This great Islamic faith is based on five basic principles, which are its pillars. They are mentioned in the Two Sahih (authentic) Books of Hadith (i.e. Al-Bukhari and Muslim) in the narration of Ibn `Umar (may Allah be pleased with them both) that the Prophet (peace be upon him) said, "Islam was based on five pillars: testimony that there is no God but Allah and that Muhammad is the Messenger of Allah; performing Salah (prayers), giving Zakah; fasting Ramadan; and performing Hajj (pilgrimage)." [^1]
 
+##### The two Testimonies are the first and most important pillar of Islam. 
+
+Such great words are not merely an act of worship to be pronounced by tongue, though by pronouncing them one becomes a Muslim. It is an commitment to act according to what they imply, including the worship of Allah Alone sincerely; the belief that He is the Only One worthy of worship and that worshipping anything or anyone other than Him is Batil (baseless and void).
+
+They imply the necessity of loving Allah, the Glorified, as well as for His Messenger (peace be upon him). Such devotion implies worshipping Allah Alone, glorifying Him, and following the Sunnah (supererogatory act of worship following the example of the Prophet). Allah, the Exalted, states, "Say (O Muhammad صلى الله عليه وسلم to mankind): "**If you (really) love Allâh then follow me (i.e. accept Islâmic Monotheism, follow the Qur’ân and the Sunnah), Allâh will love you and forgive you your sins.**" [al-Imran: 31]
+
+They (i.e. the two testimonies) imply obedience to the Messenger of Allah (peace be upon him) concerning all of his commands. Allah (Glorified be He) says: "**And whatsoever the Messenger (Muhammad صلى الله عليه وسلم) gives you, take it; and whatsoever he forbids you, abstain (from it)**" [al-Hashr: 7]
+
+It is reported by Al-Bukhari and Muslim that the Prophet (peace be upon him) said, “Three (qualities) whoever have them will taste the sweetness of faith: When Allah and His Messenger are more dearer to him than everything else...” [^2]
+
+Thus, the Prophet (peace be upon him) stated, “None of you will believe until I am dearer to him than his father, his children, and all people.” [^3]
+
+##### The second pillar: performance of Salah (Prayer). 
+
+It is the second and most important pillar after the two testimonies, as it is the basic foundation of Islam. Indeed, the first act of worship for which Muslim servants will be called to account on the Day of Resurrection is Salah. If Salah is fulfilled, they will achieve success and prosperity, and if it is lacking, they will face loss and frustration. Salah is an act of worship that must be performed at its due time. Allah, the Exalted, states, "**Verily, As-Salât (the prayer) is enjoined on the believers at fixed hours.**" [an-Nisa': 103]
+
+Allah, the Glorified and Exalted, has commanded us to faithfully observe them at their prescribed times, hence He states, "**Guard strictly (five obligatory) As-Salawât (the prayers) especially the middle Salât (i.e. the best prayer - 'Asr ). And stand before Allâh with obedience [and do not speak to others during the Salât (prayers)].**" [al-Baqarah: 238]
+
+
 ---
 
 [^1]: Al-Bukhari, Sahih, Book on faith, no. 8; Muslim, Sahih, Book on faith, no. 16; Al-Tirmidhy, Sunan, Book on faith, no. 2609; Al-Nasa*y, Sunan, Book on faith and its laws, no. 5001; and Ahmad ibn Hanbal, Musnad, vol. 2, p. 26.
+[^2]: Al-Bukhari, Sahih, Book on faith, no. 16; Muslim, Sahih, Book on faith, no. 43; Al-Tirmidhy, Sunan, Book on faith, no. 2624; Al-Nasa*y, Sunan, Book on faith and its laws, no. 4988; Ibn Majah, Sunan, Book on trials, no. 4033; and Ahmad ibn Hanbal, Musnad, vol. 3, p. 172.
+[^3]: Al-Bukhari, Sahih, Book on faith, no. 15; Muslim, Sahih, Book on faith, no. 44; Al-Nasa*y, Sunan, Book on faith and its laws, no. 5013; Ibn Majah, Sunan, Introduction, no. 67; Ahmad ibn Hanbal, Musnad, vol. 3, p. 278; and Al-Darimy, Sunan, Book on heart-softening narrations, no. 2741.
 
 
