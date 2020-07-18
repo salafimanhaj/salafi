@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Was Buddha a prophet?"
+title: "Was Buddha a Prophet?"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatwas of the Permanent Committee of KSA no. 21004"
 category: [non-muslims, buddhism, atheism]
