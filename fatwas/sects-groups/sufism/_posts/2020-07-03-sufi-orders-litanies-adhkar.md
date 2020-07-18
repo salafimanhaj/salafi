@@ -3,7 +3,7 @@ layout: post
 title: "Sufi orders, litanies, and Adhkar"
 publisher: "alsalafiyyah@icloud.com"
 category: sufism
-source: "Fatwas of the Permanent Committee of KSA no.6433-5"
+source: "Fatwas of the Permanent Committee of KSA no. 7140"
 hijri: Dhul-Qa'dah 12, 1441 AH
 date: 2020-07-03
 shaykhs: 
