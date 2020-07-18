@@ -56,11 +56,30 @@ It is the second and most important pillar after the two testimonies, as it is t
 
 Allah, the Glorified and Exalted, has commanded us to faithfully observe them at their prescribed times, hence He states, "**Guard strictly (five obligatory) As-Salawât (the prayers) especially the middle Salât (i.e. the best prayer - 'Asr ). And stand before Allâh with obedience [and do not speak to others during the Salât (prayers)].**" [al-Baqarah: 238]
 
+Allah, the Glorified and Exalted, has warned those who neglect them and delay them beyond their proper time: "**Then, there has succeeded them a posterity who have given up As-Salât (the prayers) [i.e. made their Salât (prayers) to be lost, either by not offering them or by not offering them perfectly or by not offering them in their proper fixed times] and have followed lusts. So they will be thrown in Hell.**" [maryam: 59] 
+
+Allah (Glorified be He) also says: "**So woe unto those performers of Salât (prayers) (hypocrites), Those who delay their Salât (prayer from their stated fixed times).**" [al-Maun: 4]
+
+Salah is the point of differentiation between Islam and Kufr and Shirk. It is narrated by Muslim in his Sahih that Jabir (may Allah be pleased with him) said: I heard the Messenger of Allah (peace be upon him) saying, "Between a man and disbelief and paganism is the abandonment of Salah (Prayer)." [^4] As, in the Hadith narrated by Buraydah (may Allah be pleased with him), the Prophet stated, "That which differentiates us from the disbelievers and hypocrites is our performance of Salah. He who abandons it becomes a disbeliever." [^5] It is reported by Imam Ahmad and Ahl-ul-Sunan (authors of Hadith compilations classified by jurisprudential themes) through an authentic chain of narrators.
+
+It is obligatory to observe congregational Salah (Prayer) at the mosque, for its great merit. It is narrated that Ibn 'Umar (may Allah be pleased with them both) said that the Messenger of Allah (peace be upon him) stated, "Salah made in congregation is twenty-seven degrees more excellent than the Salah of a single person." (Agreed upon by Al-Bukhari and Muslim) [^6]. It is reported by Al-Bukhari and Muslim that the Messenger of Allah (peace be upon him) considered ordering the houses of those who abandoned congregational Salah to be burned down. The Prophet (peace be upon him) said, "Whoever hears the call (adhan) and does not come to it (the prayer), then there is no prayer for him except with an excuse” [^7]. It is reported by Ibn Majah, Al-Daraqutny, Ibn Hibban and Al-Hakim with an authentic chain of narrators. All these texts indicate the great merit of performing it in congregation.
+
+It is a prerequisite of perfect and accepted Salah by Allah, the Glorified and Exalted, to be performed with humility and tranquility. Allah, the Exalted, states, "**Successful indeed are the believers. Those who offer their Salât (prayers) with all solemnity and full submissiveness.**" [al-Mu'minun: 1-2] The Prophet (peace be upon him) ordered those who were not tranquil while observing Salah to repeat it.
+
+Salah is one of the expressions of equality, brotherhood, union, and united destination towards the Ka`bah as one Qiblah . Salah is the source of comfort and utmost delight for a Mu'min (believer). The Prophet (peace be upon him) stated, "Salah (prayer) has been made my utmost pleasure."[^8] The Prophet (peace be upon him) used to turn to Salah whenever he felt any sort of distress. Allah, the Exalted, states, "**Seek help in patience and As-Salât (the prayer).**" [al-Baqarah: 153]
+
+Moreover, he used to say to Bilal, "O Bilal, Comfort us with it (i.e. Salah)."[^9] This is because when a Muslim stands in Salah, he actually stands in front of his Creator, Allah, the Glorified and Exalted. He feels calmness in his heart, tranquility in his soul, submissiveness in all his body, and utmost pleasure with His Lord and God, the Glorified and Exalted.
+
 
 ---
 
 [^1]: Al-Bukhari, Sahih, Book on faith, no. 8; Muslim, Sahih, Book on faith, no. 16; Al-Tirmidhy, Sunan, Book on faith, no. 2609; Al-Nasa*y, Sunan, Book on faith and its laws, no. 5001; and Ahmad ibn Hanbal, Musnad, vol. 2, p. 26.
 [^2]: Al-Bukhari, Sahih, Book on faith, no. 16; Muslim, Sahih, Book on faith, no. 43; Al-Tirmidhy, Sunan, Book on faith, no. 2624; Al-Nasa*y, Sunan, Book on faith and its laws, no. 4988; Ibn Majah, Sunan, Book on trials, no. 4033; and Ahmad ibn Hanbal, Musnad, vol. 3, p. 172.
 [^3]: Al-Bukhari, Sahih, Book on faith, no. 15; Muslim, Sahih, Book on faith, no. 44; Al-Nasa*y, Sunan, Book on faith and its laws, no. 5013; Ibn Majah, Sunan, Introduction, no. 67; Ahmad ibn Hanbal, Musnad, vol. 3, p. 278; and Al-Darimy, Sunan, Book on heart-softening narrations, no. 2741.
-
+[^4]: Muslim, Sahih, Book on faith, no. 82; Al-Tirmidhy, Sunan, Book on faith, no. 2620; Abu Dawud, Sunan, Book on Al-Sunnah, no. 4678; Ibn Majah, Sunan, Book on performing Prayer and its Sunan, no. 1078; Ahmad ibn Hanbal, Musnad, vol. 3, p. 370; and Al-Darimy, Sunan, Book on Salah, no. 1233.
+[^5]: Al-Tirmidhy, Sunan, Book on faith, no. 2621; Al-Nasa*y, Sunan, Book on Salah, no. 463; Ibn Majah, Sunan, Book on performing Prayer and its Sunan, no. 1079; and Ahmad ibn Hanbal, Musnad, vol. 5, p. 346.
+[^6]: Al-Bukhari, Sahih, Book on Adhan, no. 645; Muslim, Sahih, Book on Masjids and places for Salah, no. 650; Al-Tirmidhy, Sunan, Book on Salah, no. 215; Al-Nasa*y, Sunan, Book on Imamate, no. 837; Ibn Majah, Sunan, Book on Masjids and congregations, no. 789; Ahmad ibn Hanbal, Musnad, vol. 2, p. 65; and Malik, Al-Muwatta*, Book on call to Prayer, no. 290.
+[^7]: Abu Dawud, Sunan, Book on Salah, no. 551; and Ibn Majah, Sunan, Book on Masjids and congregations, no. 793.
+[^8]: Al-Nasa'i, Sunan, Book on consorting with one*s women, no. 3940; and Ahmad ibn Hanbal, Musnad, vol. 3, p. 285.
+[^9]: Abu Dawud, Sunan, Book on manners, no. 4985; and Ahmad ibn Hanbal, Musnad, vol. 5, p. 371.
 
