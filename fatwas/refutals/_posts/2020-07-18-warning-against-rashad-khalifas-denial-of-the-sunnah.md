@@ -45,6 +45,6 @@ Imam Al-Suyuti (may Allah be merciful to him) in his book, "Muftah Al-Jannah Fi 
 
 That is what I want to make clear and highlight to advise the Ummah and fulfill the due responsibility of scholars. May Allah guide us to His Straight Path, protect all Muslims from deviance after guidance, and from Kufr after Iman (Faith). I ask Allah (Glorified and Exalted be He) to grant victory to His Religion, make His word supreme, and to grant Muslims victory over their enemies. He is the One Who is Capable of doing so. May peace and blessings be upon His Prophet Muhammad, his family, companions, and those who followed him righteously until the Last Day.
 
-<a href="https://binbaz.org.sa/articles/72/%D9%83%D9%84%D9%85%D8%A9-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D9%8A%D8%A9-%D8%AD%D9%88%D9%84-%D8%A7%D9%86%D9%83%D8%A7%D8%B1-%D8%B1%D8%B4%D8%A7%D8%AF-%D8%AE%D9%84%D9%8A%D9%81%D8%A9-%D9%84%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D9%85%D8%B7%D9%87%D8%B1%D8%A9" target="_blank"Source</a>
+<a href="https://binbaz.org.sa/articles/72/%D9%83%D9%84%D9%85%D8%A9-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D9%8A%D8%A9-%D8%AD%D9%88%D9%84-%D8%A7%D9%86%D9%83%D8%A7%D8%B1-%D8%B1%D8%B4%D8%A7%D8%AF-%D8%AE%D9%84%D9%8A%D9%81%D8%A9-%D9%84%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D9%85%D8%B7%D9%87%D8%B1%D8%A9" target="_blank">Source</a>
 
 
