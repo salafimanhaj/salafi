@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Is Wahhabism a fifth Madhab?"
+title: "What is Wahhabism?"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh Ibn Baz 1/374"
 category: [wahhabism, binbaz]
