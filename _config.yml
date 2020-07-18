@@ -13,12 +13,6 @@ collections:
    ar:
      output: true
      permalink: /ar/:title
-defaults:
-  - scope:
-      path: ""
-      type: "sect-group"
-    values:
-      layout: default
       
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
