@@ -6,10 +6,10 @@ url:            "https://salafimanhaj.github.io"
 
 defaults:
   - scope:
-      path: "_site"
-      type: "fatwas"
+      path: "_public"
+      type: ""
     values:
-      layout: page
+      layout: post
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
