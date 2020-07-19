@@ -45,17 +45,3 @@ exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
 # Disqus (Set to your disqus id)
 disqus:         alsalafiyyah
-
-defaults:
-  #languages
-  -
-    scope:
-      path: ""
-    values:
-      lang: "en"
-      layout: default
-  -
-    scope:
-      path: "ar"
-    values:
-      lang: "ar"
