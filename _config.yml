@@ -4,6 +4,20 @@ description:    "Salafi manhaj"
 baseurl:        "/"
 url:            "https://salafimanhaj.github.io"
 
+collections:
+   en:
+     output: true
+     permalink: /en/:title
+   ar:
+     output: true
+     permalink: /ar/:title
+
+scope:
+  path: "en"
+values:
+  permalink: "/en/:title"
+  lang: "en"
+  
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
@@ -30,7 +44,6 @@ plugins:
   # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
-permalink:      /:title
 paginate:       5
 
 # Excludes
