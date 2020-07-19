@@ -4,13 +4,6 @@ description:    "Salafi manhaj"
 baseurl:        "/"
 url:            "https://salafimanhaj.github.io"
 
-defaults:
-  - scope:
-      path: "_public"
-      type: ""
-    values:
-      layout: post
-
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
