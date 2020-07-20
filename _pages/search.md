@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<div class="catalogue">
+    <main>
+         <div class="search">
+             <i class="fa fa-search" aria-hidden="true"></i>
+             <input type="text" id="search-input" placeholder="Search fatwa...">
+             <ul id="results-container"></ul>
+         </div>
+    </main>
+</div>
