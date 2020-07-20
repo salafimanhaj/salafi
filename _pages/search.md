@@ -1,5 +1,7 @@
 ---
 layout: default
+author: "Instagram@Alsalafiyyah"
+permalink: /search/
 ---
 
 <div class="catalogue">
