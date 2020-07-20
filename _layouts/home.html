@@ -2,6 +2,14 @@
 layout: default
 ---
 
+    <main>
+         <div class="search">
+             <i class="fa fa-search" aria-hidden="true"></i>
+             <input type="text" id="search-input" placeholder="Search posts by keyword ...">
+             <ul id="results-container"></ul>
+         </div>
+    </main>
+
 <div class="catalogue">
   {% for post in paginator.posts %}
     <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
