@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Ruling on placing book in the grave"
 publisher: "alsalafiyyah@icloud.com"
