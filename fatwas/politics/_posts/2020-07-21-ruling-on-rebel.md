@@ -38,7 +38,7 @@ However, if this is beyond their ability, they should not rebel. Also, if rebell
 ---
 
 [^1]: Muslim, Sahih, Book on rulership, no. 1855; Ahmad ibn Hanbal, Musnad, vol. 6, p. 24, and Al-Darimy, Sunan, Book on heart-softening narrations, no. 2797.
-[^2] Muslim, Sahih, Book on rulership, no. 1848; Al-Nasa*y, Sunan, Book on sanctity of blood, no. 4114; Ibn Majah, Sunan, Book on trials, no. 3948; and Ahmad ibn Hanbal, Musnad, vol. 2, p. 296.
+[^2]: Muslim, Sahih, Book on rulership, no. 1848; Al-Nasa*y, Sunan, Book on sanctity of blood, no. 4114; Ibn Majah, Sunan, Book on trials, no. 3948; and Ahmad ibn Hanbal, Musnad, vol. 2, p. 296.
 [^3]: Al-Bukhari, Sahih, Book on judgments, no. 7144; Muslim, Sahih, Book on rulership, no. 1839; Al-Tirmidhy, Sunan, Book no Jihad, no. 1707; Abu Dawud, Sunan, Book on Jihad, no. 2626; Ibn Majah, Sunan, Book on Jihad, no. 2864; and Ahmad ibn Hanbal, Musnad, vol. 2, p. 142.
 [^4]: Al-Bukhari, Sahih, Book on trials, no. 7052; Muslim, Sahih, Book on rulership, no. 1843; Al-Tirmidhy, Sunan, Book on trials, no. 2190; and Ahmad ibn Hanbal, Musnad, vol. 1, p. 387.
 [^5]: Al-Bukhari, Sahih, Book on trials, no. 7056; Muslim, Sahih, Book on ordained punishments, no. 1709; Al-Nasa*y, Sunan, Book on Al-Bay`ah, no. 4162; Ibn Majah, Sunan, Book on Jihad, no. 2866; Ahmad ibn Hanbal, Musnad, vol. 5, p. 325; Malik, Al-Muwatta*, Book on Jihad, no. 977; and Al-Darimy, Sunan, Book on military expeditions, no. 2453.
