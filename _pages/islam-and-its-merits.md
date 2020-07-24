@@ -2,7 +2,7 @@
 layout: default
 title: "Islam and its merits"
 author: "Instagram@Alsalafiyyah"
-permalink: /introduction/
+permalink: /islam-and-its-merits/
 ---
 
 # Islam and its merits
