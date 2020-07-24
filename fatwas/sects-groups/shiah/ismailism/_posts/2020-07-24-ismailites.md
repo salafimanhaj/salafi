@@ -3,7 +3,7 @@ layout: post
 title: "The Isma'ilites sect"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 28/"
-category: [shiah, ismailites, binbaz]
+category: [shiah, ismailites, ismailism, binbaz]
 hijri: Dhu al-Hijjah 3, 1441 AH
 date: 2020/07/24
 shaykhs: Shaykh Ibn Baz
@@ -11,7 +11,7 @@ shaykhs: Shaykh Ibn Baz
 
 The Isma'ilites get their name from their acceptance of Isma'il ibn Ja'far as the divinely appointed spiritual successor (Imam) to Ja'far Al-Sadiq) that oppose our purified Shari'ah (Islamic law). It is Wajib (obligatory) on every Muslim to stick to the Religion of Allah and to worship Him Alone as the Prophet (peace be upon him) and his Sahabah (Companions) did. Every Muslim has also to keep firm on abidance by Din and calling people to it. Such a Din is the true one that was followed by the Sahabah and all those who followed them in righteousness. It is the Din that Ahl-ul-Sunnah wal-Jama'ah have been following until now. 
 
-The main principles of this Din are to believe in Allah and His Messenger (peace be upon him), to worship Allah Alone, to avoid all that contradicts Shari`ah as Allah (Glorified and Exalted be He) commands His Prophet (peace be upon him) to tell people: "Say (O Muhammad صلى الله عليه وسلم to mankind): "If you (really) love Allâh then follow me (i.e. accept Islâmic Monotheism, follow the Qur’ân and the Sunnah), Allâh will love you and forgive you your sins. And Allâh is Oft-Forgiving, Most Merciful." [Aal Imran: 31]
+The main principles of this Din are to believe in Allah and His Messenger (peace be upon him), to worship Allah Alone, to avoid all that contradicts Shari'ah as Allah (Glorified and Exalted be He) commands His Prophet (peace be upon him) to tell people: "Say (O Muhammad صلى الله عليه وسلم to mankind): "If you (really) love Allâh then follow me (i.e. accept Islâmic Monotheism, follow the Qur’ân and the Sunnah), Allâh will love you and forgive you your sins. And Allâh is Oft-Forgiving, Most Merciful." [Aal Imran: 31]
 
 "And: "Say (O Muhammad صلى الله عليه و سلم): "This is my way; I invite unto Allâh (i.e. to the Oneness of Allâh - Islâmic Monotheism) with sure knowledge, I and whosoever follows me (also must invite others to Allâh i.e. to the Oneness of Allâh - Islâmic Monotheism with sure knowledge). And Glorified and Exalted be Allâh (above all that they associate as partners with Him). And I am not of the Mushrikûn (polytheists, pagans, idolaters and disbelievers in the Oneness of Allâh; those who worship others along with Allâh or set up rivals or partners to Allâh)." [Yusuf: 108]
 
@@ -35,7 +35,7 @@ I ask Allah (Glorified and Exalted be He) to bless you and make you guiding and 
 
 [^1]: Related by Al-Bukhari, Book on testimonies, Chapter on one should not bear witness in support of an injustice if called upon to do so, no. 2652; and Muslim, Book on merits of the Companions, Chapter on the merits of the Companions of the Prophet (peace be upon him) and of those who are next to them, no. 2533.
 [^2]: Related by Ibn Majah, Introduction, Chapter on following the practice of the rightly guided Caliphs, no. 42.
-[^3]: Related by Al-Bukhari, Book on merits and virtues, Chapter on the merits of 'Ali ibn Abu Talib, no. 3701; and Muslim, Book on merits of the Companions, Chapter on the merits of `Aly ibn Abu Talib (may Allah be pleased with him), no. 2406.
+[^3]: Related by Al-Bukhari, Book on merits and virtues, Chapter on the merits of 'Ali ibn Abu Talib, no. 3701; and Muslim, Book on merits of the Companions, Chapter on the merits of 'Ali ibn Abu Talib (may Allah be pleased with him), no. 2406.
 
 
 
