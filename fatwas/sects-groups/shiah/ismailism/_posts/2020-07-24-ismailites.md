@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Isma'ilites sect"
+title: "Isma'ilism sect"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 28/"
 category: [shiah, ismailites, ismailism, binbaz]
