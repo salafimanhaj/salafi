@@ -19,6 +19,6 @@ These people deal with each other so kindly and friendly that they invite each o
 
 Answer:
 
-You may invite them to your room and accept their invitation so long as you call them to Allah as explained in <a href="./ruling-on-living-with-kafirs-1/">the answer to the first question</a>.
+You may invite them to your room and accept their invitation so long as you call them to Allah as explained in <a href="../ruling-on-living-with-kafirs/">the answer to the first question</a>.
 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
