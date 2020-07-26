@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on invoking Allah for the Kafir"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 16437"
-category: [marriage, divorce, family]
+category: [walabara, friendship]
 hijri: Dhu al-Hijjah 6, 1441 AH
 date: 2020/07/27
 shaykhs: 
