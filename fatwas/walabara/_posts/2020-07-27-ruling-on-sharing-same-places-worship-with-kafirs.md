@@ -22,7 +22,7 @@ Questions:
 
 Answer:
 
-**First**: it is unanimously agreed upon that the Islamic Shari`ah was revealed to both jinn and mankind. Whoever claims that the Jews and the Christians are following the path of truth, whether from among them or not, is contradicting the Qur'an, Sunnah of the Prophet (peace be upon him), and the general consensus of the Muslim Ummah. If they claim so while being Muslims, they will be apostatizing from Islam. Allah (Exalted be He) says, "...this Qur’ân has been revealed to me that I may therewith warn you and whomsoever it may reach." [al-An'am: 19]
+**First**: it is unanimously agreed upon that the Islamic Shari'ah was revealed to both jinn and mankind. Whoever claims that the Jews and the Christians are following the path of truth, whether from among them or not, is contradicting the Qur'an, Sunnah of the Prophet (peace be upon him), and the general consensus of the Muslim Ummah. If they claim so while being Muslims, they will be apostatizing from Islam. Allah (Exalted be He) says, "...this Qur’ân has been revealed to me that I may therewith warn you and whomsoever it may reach." [al-An'am: 19]
 
 Allah (Exalted be He) also says, "And We have not sent you (O Muhammad صلى الله عليه وسلم) except as a giver of glad tidings and a warner to all mankind" [Saba': 28]
 
@@ -69,11 +69,13 @@ The Prophet termed the lustful look "Zina" because it gives sexual pleasure in t
 
 ~> Third: 
 
-All the preceding proofs vindicating that a woman's body should be covered. If a woman displays any of her charms, this may encourage others to look at her and consequently all means are sought for winning her heart. Fourth: Allah (Exalted be He) says, And let them not stamp their feet so as to reveal what they hide of their adornment. This verse signifies that Allah prohibits women from stamping their feet which is a naturally permissible act lest men should hear the anklets worn by the women and their sexual desire may be aroused. By the same token, free gatherings of both sexes are forbidden to prevent the expected corruption.
+All the preceding proofs vindicating that a woman's body should be covered. If a woman displays any of her charms, this may encourage others to look at her and consequently all means are sought for winning her heart. 
+
+~> Fourth: Allah (Exalted be He) says, And let them not stamp their feet so as to reveal what they hide of their adornment. This verse signifies that Allah prohibits women from stamping their feet which is a naturally permissible act lest men should hear the anklets worn by the women and their sexual desire may be aroused. By the same token, free gatherings of both sexes are forbidden to prevent the expected corruption.
 
 ~> Fifth: 
 
-Allah (Exalted be He) says, "Allâh knows the fraud of the eyes, and all that the breasts conceal." [Ghafir: 19] According to Ibn `'Abbas and others, "It signifies a man who enters upon occupants of a house where there is a beautiful woman. He seizes the opportunity of the family being heedless and starts staring at her. When they notice him, he starts to lower his gaze. He repeats this many times. Allah knows that he wishes to see her private parts and if he has the opportunity, he will commit adultery with her." Clearly, 'fraudulent' is the description Allah gives to the eye that steals glances at women that they are prohibited to look at. Thus, free intermixing would be an even more grievous sin. 
+Allah (Exalted be He) says, "Allâh knows the fraud of the eyes, and all that the breasts conceal." [Ghafir: 19] According to Ibn 'Abbas and others, "It signifies a man who enters upon occupants of a house where there is a beautiful woman. He seizes the opportunity of the family being heedless and starts staring at her. When they notice him, he starts to lower his gaze. He repeats this many times. Allah knows that he wishes to see her private parts and if he has the opportunity, he will commit adultery with her." Clearly, 'fraudulent' is the description Allah gives to the eye that steals glances at women that they are prohibited to look at. Thus, free intermixing would be an even more grievous sin. 
 
 ~> Sixth: 
 
