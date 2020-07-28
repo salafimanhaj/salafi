@@ -19,7 +19,7 @@ There is a Sufi Order called "Al-Ansar" (the followers of Al-Mahdy) which is wid
 
 Answer:
 
-Firstly: The claim that this man is Al-Mahdy and that the Prophet (peace be upon him) used to walk before his army and give him glad tidings of triumph is an open lie and contradiction to the Shari`ah and the realities agreed upon among Muslims. This is because the Prophet (peace be upon him) will not come out of his grave except on the Day of Resurrection. Allah (Praised be He) says: After that, surely, you will die. Then (again), surely, you will be resurrected on the Day of Resurrection." [al-Mu'minun: 15-16] 
+Firstly: The claim that this man is Al-Mahdy and that the Prophet (peace be upon him) used to walk before his army and give him glad tidings of triumph is an open lie and contradiction to the Shari'ah and the realities agreed upon among Muslims. This is because the Prophet (peace be upon him) will not come out of his grave except on the Day of Resurrection. Allah (Praised be He) says: After that, surely, you will die. Then (again), surely, you will be resurrected on the Day of Resurrection." [al-Mu'minun: 15-16] 
 
 And His saying: "Verily you (O Muhammad صلى الله عليه وسلم) will die, and verily they (too) will die. Then, on the Day of Resurrection, you will be disputing before your Lord." [al-Zumar: 30-31]
 
