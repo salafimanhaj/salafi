@@ -3,7 +3,7 @@ layout: post
 title: "Al-Habriyyah tariqah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 3545"
-category: [shiah, shiites, rafidah]
+category: [sufism, habriyyah]
 hijri: Dhu al-Hijjah 7, 1441 AH
 date: 2020/07/28
 shaykhs: 
