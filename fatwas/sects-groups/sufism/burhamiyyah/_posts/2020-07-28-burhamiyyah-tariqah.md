@@ -3,7 +3,7 @@ layout: post
 title: "Al-Burhamiyyah Tariqah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 4911"
-category: [shiah, shiites, rafidah]
+category: [sufism, burhamiyyah]
 hijri: Dhu al-Hijjah 7, 1441 AH
 date: 2020/07/28
 shaykhs: 
