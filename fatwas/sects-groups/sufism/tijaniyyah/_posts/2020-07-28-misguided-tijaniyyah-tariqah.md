@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Al-Tijaniyyah as one of the most disbelieving and misguided tariqahs"
+title: "Al-Tijaniyyah is one of the most disbelieving and misguided tariqahs"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 5553-7"
 category: [shiah, shiites, rafidah]
