@@ -9,11 +9,12 @@
     <main>
       {{ content }}
     </main>
-     <!-- Import SimpleJekyllSearch scripts by CDN -->
+    
+    {% include footer.html %}
+   
+    
  <script
      src="https://cdn.rawgit.com/christian-fei/Simple-Jekyll-Search/master/dest/simple-jekyll-search.min.js"></script>
-
- <!-- Initialize SimpleJekyllSearch Plugin -->
  <script>
      window.simpleJekyllSearch = new SimpleJekyllSearch({
          searchInput: document.getElementById('search-input'),
