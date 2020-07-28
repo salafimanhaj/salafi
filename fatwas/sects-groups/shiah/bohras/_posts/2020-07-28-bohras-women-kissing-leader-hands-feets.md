@@ -2,7 +2,7 @@
 layout: post
 title: "Dawoodi Bohras women kissing their leader's hands and feet and those of his family"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah"
+source: "Fatawa Al-Lajnah Ad-Da'imah no. 2289-2"
 category: [shiah, bohras]
 hijri: Dhu al-Hijjah 7, 1441 AH
 date: 2020/07/28
