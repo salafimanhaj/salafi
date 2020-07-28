@@ -1,4 +1,4 @@
-﻿# Site settings
+# Site settings
 title:          Salafi Manhaj
 description:    "Salafi manhaj"
 baseurl:        "/"
@@ -9,8 +9,8 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Admin
-  email:        xx@gmail.com
+  name:         Instagram@Alsalafiyyah
+  email:        alsalafiyyah@icloud.com
 
 # Build settings
 markdown:       kramdown
@@ -31,7 +31,7 @@ plugins:
 
 # Permalinks
 permalink: /:title/
-paginate:       5
+paginate:       10
 
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
