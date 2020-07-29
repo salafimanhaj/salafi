@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on reading a book that includes Tawassul through the Prophet and asking for his intercession"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 8879"
-category: [tawassul, creeds, aqidah]
+category: [tawassul, creeds, aqidah, books]
 hijri: Dhu al-Hijjah 8, 1441 AH
 date: 2020/07/29
 shaykhs: 
