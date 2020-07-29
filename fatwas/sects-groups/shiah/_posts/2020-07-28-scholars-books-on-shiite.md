@@ -3,7 +3,7 @@ layout: post
 title: "Scholars' books on Shiite 'Aqidah and their details"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 7308-1"
-category: [shiah, shiites, rafidah]
+category: [shiah, shiites, rafidah, books]
 hijri: Dhu al-Hijjah 7, 1441 AH
 date: 2020/07/28
 shaykhs: 
