@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on reading the Bible and swearing by it"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 15662-2"
-category: [walabara, disbelievers]
+category: [walabara, disbelievers, books]
 hijri: Dhu al-Hijjah 6, 1441 AH
 date: 2020/07/27
 shaykhs: 
