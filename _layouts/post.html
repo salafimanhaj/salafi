@@ -16,27 +16,33 @@ layout: default
   <ul>
     <li>
     <span>Source:</span>
+      <b>
     {% if page.source %}
     {{ page.source}}
     {% else %}
     {{ site.source.name}}
     {% endif %}
+      </b>
   </li>
     <li>
       <span>Muftis:</span>
+      <b>
     {% if page.shaykhs %}
     {{ page.shaykhs | join: ", "}}
     {% else %}
     {{ site.shaykhs.name | join: ", " }}
     {% endif %}
+      </b>
   </li>
   <li>
   <span>Published on this site:</span>
+    <b>
     {% if page.hijri %}
         {{ page.hijri }}
     {% else %}
     {{ site.hijri.name }}
     {% endif %}
+    </b>
   </li>
   </ul>
 <div class="share-page">
