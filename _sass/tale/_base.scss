@@ -9,7 +9,9 @@ body {
   margin: 0;
   padding: 0;
 }
-
+abbr { 
+  cursor: help;
+} 
 html {
   font-family: $serif-primary;
   font-size: 100%;
