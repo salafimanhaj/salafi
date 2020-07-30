@@ -4,7 +4,7 @@ title: "The Shari'ah's stance regarding searching for Scholars faults"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Daimah -3"
 category: [aqidah, creeds, hizbiyyah]
-hijri: Dhu al-Hijjah 10, 1441 AH
+hijri: Dhu al-Hijjah 11, 1441 AH
 date: 2020/07/31
 shaykhs: 
  - Shaykh Abdul-Aziz ibn Baz
