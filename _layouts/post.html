@@ -15,6 +15,7 @@ layout: default
   <hr/>
   <ul>
     <li>
+    <span>Source:</span>
     {% if page.source %}
     {{ page.source}}
     {% else %}
@@ -22,6 +23,7 @@ layout: default
     {% endif %}
   </li>
     <li>
+      <span>Muftis:</span>
     {% if page.shaykhs %}
     {{ page.shaykhs | join: ", "}}
     {% else %}
@@ -29,7 +31,7 @@ layout: default
     {% endif %}
   </li>
   <li>
-  <span>Published on:</span>
+  <span>Published on this site:</span>
     {% if page.hijri %}
         {{ page.hijri }}
     {% else %}
