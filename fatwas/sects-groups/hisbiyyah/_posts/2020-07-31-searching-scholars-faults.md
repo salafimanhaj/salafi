@@ -3,7 +3,7 @@ layout: post
 title: "The Shari'ah's stance regarding searching for Scholars faults"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Daimah -3"
-category: [aqidah, creeds, hisbiyyah]
+category: [aqidah, creeds, hizbiyyah]
 hijri: Dhu al-Hijjah 10, 1441 AH
 date: 2020/07/31
 shaykhs: 
