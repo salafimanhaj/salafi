@@ -4,7 +4,7 @@ title: "The ruling on Al-Ikhwan-ul-Muslimun (the Muslim Brotherhood) group"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 9018-1"
 category: [ikhwanis, creeds, aqidah, hizbiyyah]
-hijri: Dhu al-Hijjah 10, 1441 AH
+hijri: Dhu al-Hijjah 11, 1441 AH
 date: 2020/07/31
 shaykhs: 
  - Shaykh Abdul-Aziz ibn Baz
