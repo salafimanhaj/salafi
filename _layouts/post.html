@@ -38,7 +38,7 @@ layout: default
   <span>Published on this site:</span>
     <b>
     {% if page.hijri %}
-      <abbr datetime="{{ post.date }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ page.hijri }}</abbr>
+      <abbr datetime="{{ page.date }}" title="{{ page.date | date: "%B %d, %Y" }}">{{ page.hijri }}</abbr>
     {% else %}
     {{ site.hijri.name }}
     {% endif %}
