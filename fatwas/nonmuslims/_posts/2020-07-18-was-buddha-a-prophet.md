@@ -1,9 +1,9 @@
----
+﻿---
 layout: post
 title: "Was Buddha a Prophet?"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatwas of the Permanent Committee of KSA no. 21004"
-category: [non-muslims, buddhism, atheism]
+category: [nonmuslims, buddhism, atheism]
 hijri: Dhul-Qa'dah 27, 1441 AH
 shaykhs: 
  - Shaykh Abdul-Aziz ibn Abdullah Aal Al-Shaykh
