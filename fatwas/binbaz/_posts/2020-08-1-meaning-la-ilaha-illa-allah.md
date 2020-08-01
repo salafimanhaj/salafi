@@ -11,7 +11,8 @@ shaykhs: Shaykh Abdul-Aziz ibn Baz
 
 All praise is due to Allah Alone, and may peace and blessings be upon the Noblest of the messengers, our Prophet Muhammad, his family, his Companions, and those who righteously follow them until the Day of Resurrection.
 
-I have read the article written by our brother in Islam, the eminent Shaykh `Umar ibn Ahmad Al-Millibary on the meaning of "La ilaha illa Allah (there is no god but Allah)". I read the explanation of the Shaykh thoroughly on the three points of view regarding its meaning. The definitions are as follows:
+I have read the article written by our brother in Islam, the eminent Shaykh 'Umar ibn Ahmad Al-Millibary on the meaning of "La ilaha illa Allah (there is no god but Allah)". I read the explanation of the Shaykh thoroughly on the three points of view regarding its meaning. The definitions are as follows:
+
 1. First, it means that there is no god truly worthy of worship except Allah.
 2. Second, that there is no god truly worthy of obedience except Allah.
 3. Third, that there is no god but Allah.
@@ -35,6 +36,7 @@ The pagans claimed that they worshiped others only to bring them near to Allah, 
 Allah (Glorified be He) declared that they are liars in their claim that their deities bring them near to Allah, and disbelievers because of committing this act. There are many Ayahs that support this meaning.
 
 All praise be to Allah, the Lord of the worlds. May peace and blessings be upon our Prophet Muhammad, his family, his Companions, and those who righteously follow them until the Day of Resurrection.
+
 ---
 [^1]: Musnad Ahmad ibn Hanbal p. 3/492.
 
