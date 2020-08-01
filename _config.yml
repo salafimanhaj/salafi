@@ -1,4 +1,4 @@
-# Site settings
+﻿# Site settings
 title:          Salafi Manhaj
 description:    "Salafi manhaj"
 baseurl:        "/"
@@ -27,6 +27,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-redirect-from
   # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
