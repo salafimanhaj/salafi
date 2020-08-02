@@ -3,9 +3,9 @@ layout: audio
 title: "What is Wahhabism"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb 3"
-category: [misc, knowledge, binbaz]
+category: [salafism, wahhabism, binbaz, audios]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_461/46106.mp3
-hijri: Dhu al-Hijjah 13, 1441 AH
+hijri: Dhul-Hijjah 13, 1441 AH
 date: 2020/08/2
 shaykhs: Shaykh Abdul-Aziz ibn Baz
 ---
