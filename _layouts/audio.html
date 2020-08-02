@@ -6,10 +6,41 @@
     {% include navigation.html %}
 
     <main>
+      <h4 class="post-title">{{ page.title }}</h4>
       {% include player.html %}
       {{ content }}
     </main>
-    
+     <ul>
+    <li>
+      <span>Muftis:</span>
+      <b>
+    {% if page.shaykhs %}
+    {{ page.shaykhs | join: ", "}}
+    {% else %}
+    {{ site.shaykhs.name | join: ", " }}
+    {% endif %}
+      </b>
+  </li>
+  <li>
+  <span>Published on this site:</span>
+    <b>
+    {% if page.hijri %}
+      <abbr datetime="{{ page.date }}" title="{{ page.date | date: "%B %d, %Y" }}">{{ page.hijri }}</abbr>
+    {% else %}
+    {{ site.hijri.name }}
+    {% endif %}
+    </b>
+  </li>
+  </ul>
+<div class="share-page">
+    Share on: 
+    &nbsp; <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">Twitter</a>
+    &nbsp; <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">Facebook</a>
+    &nbsp; <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Google+">Google+</a>
+    &nbsp; <a href="https://telegram.me/share/url?url={{ site.url }}{{ page.url }}&text={{ page.title }}" rel="nofollow" target="_blank" title="Share on Telegram">Telegram</a>
+    &nbsp; <a href="http://www.tumblr.com/share/link?url={{ site.url }}{{ page.url }}&name={{ page.title }}&description={{ page.title }}" rel="nofollow" target="_blank" title="Share on Tumblr">Tumblr</a>
+    &nbsp;<a href="https://wa.me/?text={{ page.title }} : {{ site.url }}{{ page.url }}" target="_blank" title="Share on WhatsApp">WhatsApp</a>
+</div>
     {% include footer.html %}
   </body>
 </html>
