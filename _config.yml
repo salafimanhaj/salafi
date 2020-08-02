@@ -32,6 +32,7 @@ plugins:
 
 # Permalinks
 permalink: /:title/
+permalink: /category/
 paginate:       10
 
 # Excludes
