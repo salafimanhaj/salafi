@@ -1,6 +1,6 @@
----
+﻿---
 layout: post
-title: "Does the Shirk mentioned in the Qur'an: "And do not marry Al-Mushrikât till they believe" include those who follow some Tariqahs such as Al-Tijaniyyah"
+title: "Does the Shirk mentioned in the Qur'an: 'And do not marry Al-Mushrikât till they believe' include those who follow some Tariqahs such as Al-Tijaniyyah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 2229-2"
 category: [sufism, tijaniyyah]
