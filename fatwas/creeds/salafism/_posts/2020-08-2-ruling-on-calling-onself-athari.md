@@ -1,6 +1,6 @@
 ---
 layout: audio
-title: "Ruling on calling oneseff Athari"
+title: "Ruling on calling oneself Athari"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb 3"
 category: [salafism, wahhabism, binbaz, audios, atharis]
