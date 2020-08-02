@@ -1,40 +1,23 @@
-﻿# Site settings
 title:          Salafi Manhaj
 description:    "Salafi manhaj"
 baseurl:        "/"
 url:            "https://salafimanhaj.github.io"
-
-# Google Analytics
 google_analytics: UA—XXXXXXXX-X
-
-# Author
 author:
   name:         Instagram@Alsalafiyyah
   email:        alsalafiyyah@icloud.com
-
-# Build settings
 markdown:       kramdown
 include:
   - _pages
-
-# Assets
 sass:
   sass_dir:     _sass
   style:        compressed
-
-# Gems
 plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-redirect-from
-
-# Permalinks
 permalink: /:title/
 paginate:       10
-
-# Excludes
-exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
-
-# Disqus (Set to your disqus id)
+exclude: [ Gemfile ]
 disqus:         alsalafiyyah
