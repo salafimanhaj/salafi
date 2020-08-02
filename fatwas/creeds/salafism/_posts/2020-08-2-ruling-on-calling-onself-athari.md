@@ -12,11 +12,11 @@ shaykhs: Shaykh Abdul-Aziz ibn Baz
 
 Questioner: 
 
-Some people have rejected the term Athari (has knowledge of the Hadiths and narrations of the Prophet's Companions) and being associated with the Athar(narrations from the Companions). They claim that associating them to the Athar causes division between Muslims: Is this true? Or is it just a title given to people who are experts in Hadith and Al-Haqq (the Truth), especially as some prominent scholars, including Al-Hafiz Al-Iraqy, have been given that title? Is it true that you have stopped calling yourself as such? May Allah reward you well. 
+Some people have rejected the term Athari (has knowledge of the Hadiths and narrations of the Prophet's Companions) and being associated with the Athar(narrations from the Companions). They claim that associating them to the Athar causes division between Muslims: Is this true? Or is it just a title given to people who are experts in Hadith and Al-Haqq (the Truth), especially as some prominent scholars, including Al-Hafidh Al-Iraqi, have been given that title? Is it true that you have stopped calling yourself as such? May Allah reward you well. 
 
 Shaykh Ibn Baz: 
 
-I think there is nothing wrong in calling someone as Athary if it is true.If someone accepts the Prophetic Hadiths and follows the Sunnah and the way of the Salaf (righteous predecessors), so they are among the Atharys, or from among the Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream). There is nothing wrong with this. 
+I think there is nothing wrong in calling someone as Athari if it is true. If someone accepts the Prophetic Hadiths and follows the Sunnah and the way of the Salaf (righteous predecessors), so they are among the Atharys, or from among the Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream). There is nothing wrong with this. 
 
 Questioner: 
 
