@@ -28,11 +28,9 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-redirect-from
-  # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
 permalink: /:title/
-permalink: /category/
 paginate:       10
 
 # Excludes
