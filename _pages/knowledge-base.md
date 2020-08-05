@@ -11,3 +11,4 @@ permalink: /base/
 2. [Correct ‘Aqidah & its antithesis](https://salafimanhaj.github.io/aqidah/ "Correct aqidah and antithesis")
 3. [Questions and answer about Salafiyyah](https://salafimanhaj.github.io/faq/ "Questions and answer about Salafiyyah")
 4. [An overview of the Salafi Da'wah and the life of Shaykh Muhammad bin Abdul Wahhab](https://salafimanhaj.github.io/dawah-salafiyyah/ "An overview of the Salafi Da'wah and the life of Shaykh Muhammad bin Abdul Wahhab")
+5. [Wahhabism, what is it?](https://salafimanhaj.github.io/what-is-wahhabism/ "Wahhabism, what is it?")
