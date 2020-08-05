@@ -14,3 +14,4 @@ permalink: /base/
 5. [Wahhabism, what is it?](https://salafimanhaj.github.io/what-is-wahhabism/ "Wahhabism, what is it?")
 6. [Clarifying the Da'wah of the Imam Muhammad ibn Abdul-Wahhab](https://salafimanhaj.github.io/dawah-imam-muhammad/ "Clarifying the Da'wah of the Imam Muhammad ibn Abdul-Wahhab")
 7. [They accuses him of being Wahhabis for calling for Tawhid and abandoning Shirk](https://salafimanhaj.github.io/wahhabis/ "They accuses him of being Wahhabis for calling for Tawhid and abandoning Shirk")
+8. [Ruling on calling oneself Athari](https://salafimanhaj.github.io/ruling-on-calling-onself-athari/ "Ruling on calling oneself Athari")
