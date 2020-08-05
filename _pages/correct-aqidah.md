@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Correct Aqidah (Creed)
+author: "Instagram@Alsalafiyyah"
+title: Correct 'Aqidah & its antithesis
 permalink: /aqidah/
 ---
 
