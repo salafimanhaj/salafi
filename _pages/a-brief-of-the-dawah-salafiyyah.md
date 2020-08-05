@@ -1,8 +1,14 @@
 ---
-layout: page
-author: "Instagram@Alsalafiyyah"
-title: "A brief of the Da'wah of Salafiyyah"
-source: "Fatawa Nur 'Ala al-Darb Shaykh Ibn Baz vol 3"
+layout: audio
+title: "An overview of the Salafi Da'wah and the life of Sheikh Muhammad bin Abdul Wahhab"
+publisher: "alsalafiyyah@icloud.com"
+source: "Fatawa Nur 'Ala al-Darb vol 3"
+category: [salafism, wahhabism, binbaz, audios, atharis]
+mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_709/nour_70901.mp3
+link: shorturl.at/giQT2
+hijri: Dhul-Hijjah 16, 1441 AH
+date: 2020/08/6
+shaykhs: Shaykh Abdul-Aziz ibn Baz
 permalink: /dawah-salafiyyah/
 ---
 
@@ -71,6 +77,7 @@ Therefore those who follow thern exactly are those who follow in their steps, wi
 
 It is the Da'wah Salafiyyah to Tawhid of Allah, following His Shari'ah, and obeying the Prophet (peace be upon him). My advice to every Muslim is to fear Allah, know the Truth through evidence not through copying the sayings or actions of the ignorant. Rather evidence is available in their books, such as Fath Al-Majid Sharh Kitab Al-Tawhid, Taysir Al-'Aziz Al-Hamid, and others. Read them over and over again until you know the Truth and be sure they were on the Truth and were guided. They called to Tawhid of Allah and to following His Shari'ah and abandoning what Allah and His Prophet forbade. This is the way of Shaykh Muhammad ibn "Abdul-Wahhab (may Allah be merciful with him). And this was the way of his followers, scholars of Najd and others of the Saudi Royal Family and others. 
 
-We ask Allah to guide us, set our hearts and deeds right, guide the stray until they hold firm to the Truth. We ask Allah to guide the astray, and teach the ignorant until they are aware of the Truth with its evidence, and to guide the aggressive and those who follow their desires, until they turn to the Truth, and follow what the Prophet (peace be upon him) was sent with, and follow evidence not the ignorant and the followers of desire, for copying these people will harm not help you. It is obligatory on those who seek knowledge to take the Truth with its evidence, to look into the books of the people who are thought to oppose Shari'ah, in order to be sure where the Truth is. Thus you can speak of sure knowledge. We ask Allah to make us successful and guided, set right the affairs of Muslims and grant them knowledge in religion, guide them and us to the straight path, grant all Muslims knowledge of the religion of Allah, hold firm to the Book of Allah and the Sunnah of the Prophet Muhammad (peace be upon him), and not to exceed their limits. Allah is 
-the Exalted, Most Generous. 
+We ask Allah to guide us, set our hearts and deeds right, guide the stray until they hold firm to the Truth. We ask Allah to guide the astray, and teach the ignorant until they are aware of the Truth with its evidence, and to guide the aggressive and those who follow their desires, until they turn to the Truth, and follow what the Prophet (peace be upon him) was sent with, and follow evidence not the ignorant and the followers of desire, for copying these people will harm not help you. 
 
+It is obligatory on those who seek knowledge to take the Truth with its evidence, to look into the books of the people who are thought to oppose Shari'ah, in order to be sure where the Truth is. Thus you can speak of sure knowledge. We ask Allah to make us successful and guided, set right the affairs of Muslims and grant them knowledge in religion, guide them and us to the straight path, grant all Muslims knowledge of the religion of Allah, hold firm to the Book of Allah and the Sunnah of the Prophet Muhammad (peace be upon him), and not to exceed their limits. Allah is 
+the Exalted, Most Generous. 
