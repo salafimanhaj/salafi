@@ -206,7 +206,7 @@ These sects deny the perfection of the Attributes of Allah. They give Him attrib
 
 May Allah grant us success. Indeed, He (Glorified be He) is Sufficient for us, and He is the Best Disposer of affairs. There is neither might nor power except with Allah. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
 
-Written by : Shaykh Ibn Baz (May Allah be merciful to him) in Majmu' Fatawa wa Muqolat 1/13, and published in Islamic Research Journal (seventh edition) issued in Rajab, Sha'ban, Ramadan, and Shawwal 1403 A.H.
+Written by : Shaykh Ibn Baz (May Allah be merciful to him) in <a href="https://binbaz.org.sa/articles/1/%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A%D8%AD%D8%A9-%D9%88%D9%85%D8%A7-%D9%8A%D8%B6%D8%A7%D8%AF%D9%87%D8%A7" target="_blank">Majmu' Fatawa wa Muqolat 1/13</a>, and published in Islamic Research Journal (seventh edition) issued in Rajab, Sha'ban, Ramadan, and Shawwal 1403 A.H.
 
 ---
 
