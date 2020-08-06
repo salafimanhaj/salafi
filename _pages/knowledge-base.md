@@ -15,3 +15,6 @@ permalink: /base/
 6. [Clarifying the Da'wah of the Imam Muhammad ibn Abdul-Wahhab](https://salafimanhaj.github.io/dawah-imam-muhammad/ "Clarifying the Da'wah of the Imam Muhammad ibn Abdul-Wahhab")
 7. [They accuse him of being Wahhabi for calling for Tawhid and abandoning Shirk](https://salafimanhaj.github.io/wahhabis/ "They accuses him of being Wahhabis for calling for Tawhid and abandoning Shirk")
 8. [Ruling on calling oneself Athari](https://salafimanhaj.github.io/ruling-on-calling-onself-athari/ "Ruling on calling oneself Athari")
+9. [Refuting the claims against Shaykh Muhammad ibn Abdul-Wahhab and his Da'wah](https://salafimanhaj.github.io/refuting-the-claims-against-haykh-muhammad/ "Refuting the claims against Shaykh Muhammad ibn Abdul-Wahhab and his Da'wah")
+10. [Is it true that Wahhabism criticizes the Prophet and his family](https://salafimanhaj.github.io/is-it-true-wahhabism-antagonizes-ahlul-bayt-and-criticizes-the-prophet/ "Is it true that Wahhabism criticizes the Prophet and his family")
+11. [Is it correct that Hanbalis are the only Salafis](https://salafimanhaj.github.io/are-hanabilah-the-only-salafis/ "Is it correct that Hanbalis are the only Salafis")
