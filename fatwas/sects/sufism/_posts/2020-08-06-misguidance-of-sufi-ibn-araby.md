@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3"
 category: [sufism, binbaz, audios]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_718/nour_71815.mp3
-link: shorturl.at/ntFX7
+link: https://cutt.ly/rdGfqSg
 hijri: Dhul-Hijjah 16, 1441 AH
 date: 2020/08/6
 shaykhs: Shaykh Abdul-Aziz ibn Baz
