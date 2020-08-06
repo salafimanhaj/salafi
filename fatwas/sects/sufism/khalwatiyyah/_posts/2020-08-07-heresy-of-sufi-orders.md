@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: audio
 title: "All the Sufi orders are innovations in the religion"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Muqalat 9/285"
