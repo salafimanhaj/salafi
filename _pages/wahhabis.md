@@ -1,6 +1,6 @@
 ---
 layout: audio
-title: "They accuses him of being Wahhabis for calling for Tawhid and abandoning Shirk"
+title: "They accuse him of being Wahhabi for calling for Tawhid and abandoning Shirk"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3"
 category: [salafism, wahhabism, binbaz, audios, wahabiyyah]
