@@ -3,7 +3,6 @@ layout: default
 ---
 
 <div class="catalogue">
-  <p>Total fatwas: {{ site.posts | size }}</p>
   {% for post in paginator.posts %}
     <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
       <div>
