@@ -18,3 +18,4 @@ permalink: /base/
 9. [Refuting the claims against Shaykh Muhammad ibn Abdul-Wahhab and his Da'wah](https://salafimanhaj.github.io/refuting-the-claims-against-haykh-muhammad/ "Refuting the claims against Shaykh Muhammad ibn Abdul-Wahhab and his Da'wah")
 10. [Is it true that Wahhabism criticizes the Prophet and his family](https://salafimanhaj.github.io/is-it-true-wahhabism-antagonizes-ahlul-bayt-and-criticizes-the-prophet/ "Is it true that Wahhabism criticizes the Prophet and his family")
 11. [Is it correct that Hanbalis are the only Salafis](https://salafimanhaj.github.io/are-hanabilah-the-only-salafis/ "Is it correct that Hanbalis are the only Salafis")
+12. [The meaning of 'La ilaha illa Allah'](https://salafimanhaj.github.io/meaning-la-ilaha-illa-allah/ "The meaning of La ilaha illa Allah")
