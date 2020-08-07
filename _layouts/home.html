@@ -3,8 +3,8 @@ layout: default
 ---
 
 <div class="catalogue">
+  Total posts: {{ site.posts | size }}
   {% for post in paginator.posts %}
-  {{ site.posts | size }}
     <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
       <div>
         <time datetime="{{ post.hijri }}" class="catalogue-time">{{ post.hijri | post.hijri.name }}</time>
