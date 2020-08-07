@@ -7,6 +7,12 @@ layout: default
     <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
       <div>
         <time datetime="{{ post.hijri }}" class="catalogue-time">{{ post.hijri | post.hijri.name }}</time>
+      {% if site.google_analytics.pv.enabled %}
+      <i class="far fa-eye fa-fw"></i>
+      <span id="pv_{{-post.title-}}" class="pageviews">
+        <i class="fas fa-spinner fa-spin fa-fw"></i>
+      </span>
+      {% endif %}
         <h3 class="catalogue-title">{{ post.title }}</h3>
         <div class="catalogue-line"></div>
 
