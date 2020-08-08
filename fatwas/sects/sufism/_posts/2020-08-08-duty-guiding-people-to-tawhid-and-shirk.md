@@ -41,7 +41,7 @@ Allah (Exalted be He) also says: “**O mankind! Worship your Lord (Allah)**” 
 
 May He be Glorified and Exalted. Their calling upon the dead, or statues, or trees, or stones is described as Shirk. It is obligatory that these people are warned and advised. The scholars should warn and advise them until they comprehend and learn that what they are doing is null and void, and it is Shirk. Their Salah, Sawrn, Zakah, Hajj and their other deeds are nullified because of this, until they dedicate their worship to Allah Alone. Allah sent His Messenger (peace be upon him) to mankind to free them from Shirk. He (peace be upon him) resided in Makkah for ten years calling people to Tawhid and exhorting them to abandon supplication to and seeking help from the dead, or statues, or trees or stones. 
 
-He (peace be upon him) used to call out: "O people say, 'La ilaha ilia Allah', and you will succeed." 
+He (peace be upon him) used to call out: "O people say, 'La ilaha illa Allah', and you will succeed." 
 
 This was before Salah became obligatory, then Salah was enjoined and became obligatory in Makkah. He (peace be upon him) remained in Makkah calling people to Tawhid, then he migrated to Madinah where he continued to call people to Allah (Glorified and Exalted be He) and to Tawhid. It is obligatory upon you brother to continue advising and teaching these people in a wise, patient and kind manner in the hope that Allah guides them through you. The Prophet (peace be upon him) said: "Anyone who guides others to do something good will have a reward like that of the one who does it."
 
