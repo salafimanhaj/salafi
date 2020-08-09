@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Is it true that Wahhabism criticizes the Prophet and his family"
 lang: en
