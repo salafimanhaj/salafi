@@ -1,6 +1,6 @@
 ---
 layout: audio
-title: "People of Bid'ah are not of Al-Firqah Al-Najiyah"
+title: "People of Bid'ah are not of Al-Firqah Al-Najiyah (Victorious group / the Saved group)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb of Ibn Baz tape no. 307 question 4"
 category: [binbaz, audios, ahlsunnah]
