@@ -29,7 +29,7 @@ He (Glorified be He) also says: "**Those whom they call upon [like ‘Isâ (Jesu
 
 However, Muslim men and women are to seek the means that Allah has permitted, placing their hope in Him and fearing Him; pursuing the means while also putting their trust in Allah and depending on Him to bring what they hope for and keep them safe from what they fear. Indeed, He is the Ever-Responsive and Most Generous. Allah (Glorified and Exalted be He) says: "**And whosoever fears Allâh and keeps his duty to Him, He will make a way for him to get out (from every difficulty). And He will provide him from (sources) he never could imagine.**" [al-Talaq: 2-3]
 
-He (Glorified be He) says: "**...and whosoever fears Allâh and keeps his duty to Him, He will make his matter easy for him.*8" [al-Talaq: 4]
+He (Glorified be He) says: "**...and whosoever fears Allâh and keeps his duty to Him, He will make his matter easy for him.**" [al-Talaq: 4]
 
 "**And all of you beg Allâh to forgive you all, O believers, that you may be successful**" [al-Nur:31]
 
