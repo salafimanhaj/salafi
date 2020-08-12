@@ -2,7 +2,7 @@
 layout: post
 title: "Ruling on listening to songs"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat vol 5 question 2"
+source: "Majmu' Fatawa wa Maqalat 5/298 question 2"
 hijri: Dhul-Hijjah 22, 1441 AH
 date: 2020/08/12
 shaykhs: Shaykh Ibn Baz
