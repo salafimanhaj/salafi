@@ -14,7 +14,7 @@ I often hear that saying “Sadaq Allah Al-Adhim" upon ending recitation of the 
 
 Answer:
 
-People’s custom of saying “Sadaq Allah Al-Adhim" when finishing a session of recitation is a baseless act that should not be taken as a habit. Indeed, according to the principles of Shari`ah, it is a Bid`ah. If anyone believes that it is Sunnah, it should not be done or taken as a habit for the lack of legal foundation. As for Allah's Saying: "**Say (O Muhammad صلى الله عليه وسلم): "Allâh has spoken the truth**" [Aal 'Imran: 95] 
+People’s custom of saying “Sadaq Allah Al-Adhim" when finishing a session of recitation is a baseless act that should not be taken as a habit. Indeed, according to the principles of Shari'ah, it is a Bid'ah. If anyone believes that it is Sunnah, it should not be done or taken as a habit for the lack of legal foundation. As for Allah's Saying: "**Say (O Muhammad صلى الله عليه وسلم): "Allâh has spoken the truth**" [Aal 'Imran: 95] 
 
 this has nothing to do with this matter. Allah was commanding him to explain to the people that Allah had spoken the truth in what He told in His Great Books like the Tawrah (Torah), etc. He was speaking the truth in all that He said to His slaves in His Glorious Book, the Qur'an. But this is not evidence that it is Mustahab (desirable) to say "Sadaq Allah Al-Adhim" after reading the Qur'an or after reading some Ayahs or a Surah (Qur'anic chapter). This was not reported or known from the Prophet (peace be upon him) or his companions (may Allah be pleased with them).
 
