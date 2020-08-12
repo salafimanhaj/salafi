@@ -17,13 +17,13 @@ Answer:
 
 This is a great Munkar (that which is unacceptable or disapproved of by Islamic law and Muslims of sound intellect) and evil. Traveling to visit graves itself is a Munkar, according to the saying of the Prophet (peace be upon him), "**Do not set out on a journey but to three Masjids: Al-Masjid Al-Haram (the Sacred Mosque in Makkah), this Masjid of mine (the Prophet's Mosque in Madinah), and Al-Masjid Al-Aqsa (the Aqsa Mosque in Jerusalem).**" [^1] 
 
-In addition, drawing close to the dead people through vows, sacrificial animals, Salah (Prayer), Du`a' (supplication), or seeking their help is considered Shirk (associating others with Allah in His Divinity or worship). It is impermissible for a Muslim to supplicate to a dead person or seek their help, even if they were great people such as Messengers (peace be upon them). It is also impermissible to seek the help of idols, trees, or planets.
+In addition, drawing close to the dead people through vows, sacrificial animals, Salah (Prayer), Du'a (supplication), or seeking their help is considered Shirk (associating others with Allah in His Divinity or worship). It is impermissible for a Muslim to supplicate to a dead person or seek their help, even if they were great people such as Messengers (peace be upon them). It is also impermissible to seek the help of idols, trees, or planets.
 
-As for playing the Duff and beating drums to draw closer to Allah (Glorified be He), this is a rejected Bid'ah (innovation in religion). Many Sufis worship Allah (Exalted be He) in this way, which is a rejected Bid`ah that is not prescribed by Him. It is only permissible to use the Duff in weddings for women as a form of announcement, so that it is known that it is a wedding, not adultery.
+As for playing the Duff and beating drums to draw closer to Allah (Glorified be He), this is a rejected Bid'ah (innovation in religion). Many Sufis worship Allah (Exalted be He) in this way, which is a rejected Bid'ah that is not prescribed by Him. It is only permissible to use the Duff in weddings for women as a form of announcement, so that it is known that it is a wedding, not adultery.
 
 Another Bid'ah and one of the means leading to Shirk is building on graves and turning them into Masjids. The Prophet (peace be upon him) forbade plastering graves, building over them, and sitting on them according to what was related by Imam Muslim in his Sahih (authentic) Book of Hadith, on the authority of Jabir ibn 'Abdullah (may Allah be pleased with him) that he said, "**The Messenger of Allah (peace be upon him) forbade plastering of graves, sitting on them and building over them.**" [^2] 
 
-He (peace be upon him) also said, "**May Allah curse the Jews and the Christians, for they have turned the graves of their Prophets into places of `Ibadah (worship).**" [^3]
+He (peace be upon him) also said, "**May Allah curse the Jews and the Christians, for they have turned the graves of their Prophets into places of 'Ibadah (worship).**" [^3]
 
 The graves should be an open area that have no buildings. It is impermissible to rub oneself against their walls seeking blessings in them, supplicating the dead, seeking their help, making vows for them or sacrificing animals for them. All these are deeds of Jahiliyyah (pre-Islamic time of ignorance).
 
