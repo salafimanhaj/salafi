@@ -1,10 +1,11 @@
----
+﻿---
 layout: post
 title: "What should a woman do when she has her monthly period and she is unable to offer Salah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa al-Lajnah ad- Daimah no.3377-2"
 hijri: Dhul-Hijjah 24, 1441 AH
 date: 2020/08/14
+category: [khawarij, alifta]
 shaykhs: 
  - Shaykh Ibn Baz
  - Shaykh Abdullah ibn Ghudayyan
