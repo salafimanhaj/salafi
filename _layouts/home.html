@@ -27,10 +27,10 @@ layout: default
 
 <div class="pagination" style="margin-bottom: 35px">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow"><i class="fas fa-arrow-left"></i></a>
   {% endif %}
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right arrow"><i class="fas fa-arrow-right"></i></a>
   {% endif %}
 
   <span>{{ paginator.page }}</span>
