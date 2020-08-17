@@ -1,33 +1,21 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  {% seo %}
   <meta name="google-site-verification" content="0AfP6ouBUqp8IPbvV8AgSXFY3YTtSTTriIZ2Lyt43NI" />
-  <!-- CSS -->
+  {% seo %}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600&display=swap" rel="stylesheet">
-
-  <!-- Favicon -->
   <link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/favicon-32x32.png" | relative_url }}">
   <link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/favicon-16x16.png" | relative_url }}">
   <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/apple-touch-icon.png" | relative_url }}">
-
-  <!-- RSS -->
   {% feed_meta %}
-
-  <!-- Google Analytics-->
   {% if site.google_analytics and jekyll.environment == 'production' %}
   {% include analytics.html %}
   {% endif %}
-  
   {% if jekyll.environment == 'production' %}
     <link rel="preconnect" href="https://www.google-analytics.com" crossorigin="use-credentials">
     <link rel="dns-prefetch" href="https://www.google-analytics.com">
-
     <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin="anonymous">
     <link rel="dns-prefetch" href="https://www.googletagmanager.com">
-
     {% if site.google_analytics.pv.proxy_url and site.google_analytics.pv.enabled %}
       <link rel="preconnect" href="{{ site.google_analytics.pv.proxy_url }}" crossorigin="use-credentials">
       <link rel="dns-prefetch" href="{{ site.google_analytics.pv.proxy_url }}">
