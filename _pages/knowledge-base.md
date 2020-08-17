@@ -19,3 +19,4 @@ permalink: /base/
 10. [Is it true that Wahhabism criticizes the Prophet and his family](https://salafimanhaj.github.io/is-it-true-wahhabism-antagonizes-ahlul-bayt-and-criticizes-the-prophet/ "Is it true that Wahhabism criticizes the Prophet and his family")
 11. [Is it correct that Hanbalis are the only Salafis](https://salafimanhaj.github.io/are-hanabilah-the-only-salafis/ "Is it correct that Hanbalis are the only Salafis")
 12. [The meaning of 'La ilaha illa Allah'](https://salafimanhaj.github.io/meaning-la-ilaha-illa-allah/ "The meaning of La ilaha illa Allah")
+13. [The obligation of adhering to the Sunnah and warning against Bid'ah](https://salafimanhaj.github.io/wahhabis/ "The obligation of adhering to the Sunnah and warning against Bid'ah")
