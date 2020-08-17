@@ -2,6 +2,7 @@
 description:    "The Salafi Da’wah is a call to follow the footsteps of the Messenger (peace be upon him), his Sahabah (Companions of the Prophet, may Allah be pleased with them), and those who follow them in righteousness (cf. Qur'an, al-Tawbah: 100)."
 baseurl:        "/"
 url:            "https://salafimanhaj.github.io"
+email: salafiyyah@outlook.sa
 author:
   name:         Instagram@Alsalafiyyah
   email:        alsalafiyyah@icloud.com
@@ -17,7 +18,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-redirect-from
   - jekyll-remote-theme
 permalink: /:title/
 paginate:       10
@@ -35,4 +35,3 @@ google_analytics:
 exclude:
   - Gemfile
   - Gemlock
-
