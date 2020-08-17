@@ -20,3 +20,4 @@ permalink: /base/
 11. [Is it correct that Hanbalis are the only Salafis](https://salafimanhaj.github.io/are-hanabilah-the-only-salafis/ "Is it correct that Hanbalis are the only Salafis")
 12. [The meaning of 'La ilaha illa Allah'](https://salafimanhaj.github.io/meaning-la-ilaha-illa-allah/ "The meaning of La ilaha illa Allah")
 13. [The obligation of adhering to the Sunnah and warning against Bid'ah](https://salafimanhaj.github.io/obligation-adhering-sunnah-warning-bidahs/ "The obligation of adhering to the Sunnah and warning against Bid'ah")
+14. [Things that invalidate Islam](https://salafimanhaj.github.io/nullifiers-of-islam/ "Things that invalidate Islam")
