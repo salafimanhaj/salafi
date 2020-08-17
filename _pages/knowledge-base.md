@@ -1,5 +1,5 @@
----
-layout: page
+﻿---
+layout: default
 author: "Instagram@Alsalafiyyah"
 title: Knowlegde base
 permalink: /base/
