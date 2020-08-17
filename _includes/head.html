@@ -21,4 +21,26 @@
       <link rel="dns-prefetch" href="{{ site.google_analytics.pv.proxy_url }}">
     {% endif %}
   {% endif %}
+{% if page.style %}
+ <style type="text/css">
+  input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 3px solid #ccc;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+  background-image: url('https://www.w3schools.com/css/searchicon.png');
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+}
+
+input[type=text]:focus {
+  border: 3px solid #555;
+}
+ </style>
+{% endif %}
 </head>
