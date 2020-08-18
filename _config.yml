@@ -17,6 +17,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
   - jekyll-sitemap
+  - jekyll-pdf-embed
 permalink: /:title/
 paginate:       4
 exclude:
