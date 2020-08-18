@@ -2,36 +2,17 @@
 layout: default
 ---
 
-<div class="catalogue">
-  {% for post in paginator.posts %}
-    <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
-      <div>
-        <time datetime="{{ post.hijri }}" class="catalogue-time">{{ post.hijri | post.hijri.name }}</time>
-      {% if site.google_analytics.pv.enabled %}
-      <i class="far fa-eye fa-fw"></i>
-      <span id="pv_{{-post.title-}}" class="pageviews">
-        <i class="fas fa-spinner fa-spin fa-fw"></i>
-      </span>
-      {% endif %}
-        <h3 class="catalogue-title">{{ post.title }}</h3>
-        <div class="catalogue-line"></div>
-
+    {% for post in paginator.posts %}
+	<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
         <p>
           {{ post.content | strip_html | truncatewords: 30 }}
         </p>
-
-      </div>
-    </a>
-  {% endfor %}
-</div>
-
-<div class="pagination" style="margin-bottom: 35px">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow"><i class="fas fa-arrow-left"></i></a>
-  {% endif %}
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right arrow"><i class="fas fa-arrow-right"></i></a>
-  {% endif %}
-
-  <span>{{ paginator.page }}</span>
-</div>
+   	<footer>
+	<ul class="actions">
+	<li><a href="{{ post.url | prepend: site.baseurl }}" class="button small">Continue Reading</a></li>
+	</ul>
+	<ul class="stats">
+		<li><i class="icon fa-calendar"></i> {{ post.hijri | post.hijri.name }}</li>
+	</ul>
+	 </footer>
+   {% endfor %} 

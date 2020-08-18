@@ -1,187 +1,34 @@
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="google-site-verification" content="0AfP6ouBUqp8IPbvV8AgSXFY3YTtSTTriIZ2Lyt43NI" />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
   {% seo %}
-  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
-  <script src="https://kit.fontawesome.com/280680b495.js" crossorigin="anonymous"></script>
-  <link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/favicon-32x32.png" | relative_url }}">
-  <link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/favicon-16x16.png" | relative_url }}">
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/apple-touch-icon.png" | relative_url }}">
   {% feed_meta %}
   {% if site.google_analytics and jekyll.environment == 'production' %}
   {% include analytics.html %}
-  {% endif %}
-  {% if jekyll.environment == 'production' %}
-    <link rel="preconnect" href="https://www.google-analytics.com" crossorigin="use-credentials">
-    <link rel="dns-prefetch" href="https://www.google-analytics.com">
-    <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin="anonymous">
-    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
-    {% if site.google_analytics.pv.proxy_url and site.google_analytics.pv.enabled %}
-      <link rel="preconnect" href="{{ site.google_analytics.pv.proxy_url }}" crossorigin="use-credentials">
-      <link rel="dns-prefetch" href="{{ site.google_analytics.pv.proxy_url }}">
-    {% endif %}
-  {% endif %}
- <style type="text/css">
-	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
-		margin: 0;
-		padding: 0;
-		border: 0;
-		font-size: 100%;
-		font: inherit;
-		vertical-align: baseline;
-	}
-
-	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
-		display: block;
-	}
-
-	body {
-		line-height: 1;
-	}
-
-	ol, ul {
-		list-style: none;
-	}
-  html, body {
-  font-family: "Source Sans Pro", Helvetica, sans-serif;
-  }
-  .post-title {
-    font-family: "Source Sans Pro", Helvetica, sans-serif;;
-    font-size: 2.8rem;
-  }
-  input[type=text] {
-  width: 100%;
-  padding: 12px 20px;
-  margin: 8px 0;
-  box-sizing: border-box;
-  border: 3px solid #ccc;
-  -webkit-transition: 0.5s;
-  transition: 0.5s;
-  outline: none;
-  background-image: url('https://www.w3schools.com/css/searchicon.png');
-  background-position: 10px 10px; 
-  background-repeat: no-repeat;
-  padding: 12px 20px 12px 40px;
-}
-
-input[type=text]:focus {
-  border: 3px solid #555;
-}
-.pagination {
-  margin-bottom: 35px;
-}
-	body, input, select, textarea {
-		color: #646464;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
-		font-size: 14pt;
-		font-weight: 400;
-		line-height: 1.75;
-	}
-
-		@media screen and (max-width: 1680px) {
-
-			body, input, select, textarea {
-				font-size: 12pt;
-			}
-
-		}
-
-		@media screen and (max-width: 1280px) {
-
-			body, input, select, textarea {
-				font-size: 12pt;
-			}
-
-		}
-
-		@media screen and (max-width: 980px) {
-
-			body, input, select, textarea {
-				font-size: 12pt;
-			}
-
-		}
-
-		@media screen and (max-width: 736px) {
-
-			body, input, select, textarea {
-				font-size: 12pt;
-			}
-
-		}
-
-		@media screen and (max-width: 480px) {
-
-			body, input, select, textarea {
-				font-size: 12pt;
-			}
-
-		}
-
-	a {
-		-moz-transition: color 0.2s ease, border-bottom-color 0.2s ease;
-		-webkit-transition: color 0.2s ease, border-bottom-color 0.2s ease;
-		-ms-transition: color 0.2s ease, border-bottom-color 0.2s ease;
-		transition: color 0.2s ease, border-bottom-color 0.2s ease;
-		border-bottom: dotted 1px rgba(160, 160, 160, 0.65);
-		color: inherit;
-		text-decoration: none;
-	}
-
-		a:before {
-			-moz-transition: color 0.2s ease;
-			-webkit-transition: color 0.2s ease;
-			-ms-transition: color 0.2s ease;
-			transition: color 0.2s ease;
-		}
-
-		a:hover {
-			border-bottom-color: transparent;
-			color: #2ebaae !important;
-		}
-
-			a:hover:before {
-				color: #2ebaae !important;
-			}
-
-	strong, b {
-		color: #3c3b3b;
-		font-weight: 700;
-	}
-
-	em, i {
-		font-style: italic;
-	}
-
-	p {
-		margin: 0 0 2em 0;
-	}
-	h2 {
-		font-size: 1.1em;
-	}
-
-	h3 {
-		font-size: 0.9em;
-	}
-
-	h4 {
-		font-size: 0.7em;
-	}
-
-	h5 {
-		font-size: 0.7em;
-	}
-
-	h6 {
-		font-size: 0.7em;
-	}
-	hr {
-		border: 0;
-		border-bottom: solid 1px rgba(160, 160, 160, 0.3);
-		margin: 0.8em 0;
-	}
-
- </style>
+  {% endif %} 
+  <meta name="google-site-verification" content="0AfP6ouBUqp8IPbvV8AgSXFY3YTtSTTriIZ2Lyt43NI" />
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/favicon-32x32.png" | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/favicon-16x16.png" | relative_url }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/apple-touch-icon.png" | relative_url }}">
+  <!--[if lte IE 8]>
+  <script src="{{ '/assets/js/ie/html5shiv.js' | absolute_url }}"></script>
+  <![endif]-->
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}" />
+  <!--[if lte IE 9]>
+  <link rel="stylesheet" href="{{ '/assets/css/ie9.css' | absolute_url }}" />
+  <![endif]-->
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" href="{{ '/assets/css/ie8.css' | absolute_url }}" />
+  <![endif]-->
+  <link rel="stylesheet" href="{{ '/assets/custom.css' | absolute_url }}" />
+  <script src="https://kit.fontawesome.com/280680b495.js" crossorigin="anonymous"></script>
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+  {% if page.tipue_search_active or layout.tipue_search_active -%}
+  <script src="{{ "/assets/tipuesearch/tipuesearch_content.js" | relative_url }}"></script>
+  <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/tipuesearch.css" | relative_url }}">
+  <script src="{{ "/assets/tipuesearch/tipuesearch_set.js" | relative_url }}"></script>
+  <script src="{{ "/assets/tipuesearch/tipuesearch.min.js" | relative_url }}"></script>
+  {% endif -%}
 </head>

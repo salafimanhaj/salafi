@@ -1,0 +1,10 @@
+<ul class="actions pagination align-center">
+ {% if paginator.previous_page %}
+	<li>
+		<a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="button big previous">Previous Page</a>
+	</li>{% endif %}
+ {% if paginator.next_page %}
+	<li>
+		<a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="button big next">Next Page</a>
+	</li>{% endif %}
+</ul>  

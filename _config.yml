@@ -1,5 +1,5 @@
-﻿title:          Salafi Manhaj
-description:    "The Salafi Da’wah is a call to follow the footsteps of the Messenger (peace be upon him), his Sahabah (Companions of the Prophet, may Allah be pleased with them), and those who follow them in righteousness (cf. Qur'an, al-Tawbah: 100)."
+title:          Salafi Manhaj
+description:    "The Salafi Da'wah is a Da'wah to follow the footsteps of the Messenger (peace be upon him), his Sahabah (Companions of the Prophet, may Allah be pleased with them), and those who follow them in righteousness (cf. Qur'an, al-Tawbah: 100)."
 baseurl:        "/"
 url:            "https://salafimanhaj.github.io"
 email: salafiyyah@outlook.sa
@@ -7,31 +7,26 @@ author:
   name:         Instagram@Alsalafiyyah
   email:        alsalafiyyah@icloud.com
 markdown:       kramdown
-theme:      tale
-remote_theme: chesterhow/tale
+theme:     future-imperfect-jekyll-theme
+remote_theme: andrewbanchich/future-imperfect-jekyll-theme
 include:
   - _pages
-sass:
-  sass_dir:     _sass
-  style:        compressed
 plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-remote-theme
+  - jekyll-sitemap
 permalink: /:title/
-paginate:       10
-disqus:         alsalafiyyah
-google_analytics:
-  id: 'UA-174935062-1'          # Fill with your Google Analytics ID
-  pv:
-    # The Google Analytics pageviews switch.
-    # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
-    enabled: false
-    # the next options only valid when `google_analytics.pv` is enabled.
-    proxy_url: ''
-    proxy_endpoint: ''
-    cache: false  # pv data local cache, good for the users from GFW area.
+paginate:       4
 exclude:
+  - .gitignore
   - Gemfile
   - Gemlock
+tipue_search:
+  include:
+    pages: false
+  exclude:
+    files: [index.html, search.html, readme.md]
+google_analytics:
+  id: 'UA-174935062-1'

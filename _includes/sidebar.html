@@ -1,0 +1,56 @@
+<!-- Menu -->
+<section id="menu">
+	<!-- Search -->
+	<section>
+		<form class="search" action="{{ "/search/" | relative_url }}">
+			<input id="tipue_search_input" type="text" name="q" placeholder="Search" pattern=".{3,}" title="At least 3 characters" required/>
+		</form>
+	</section>
+	<!-- Links -->
+	<section>
+		<ul class="links">
+			<li>
+				<a href="{{ site.baseurl }}/">
+					<h3>Home</h3>
+				</a>
+			</li>			
+			<li>
+				<a href="{{ '/base' | prepend: site.baseurl }}">
+					<h3>Knowledge base</h3>
+				</a>
+			</li>
+			<li>
+				<a href="../../wahhabis">
+					<h3>Wahhabism, what is it?</h3>
+					<p></p>
+				</a>
+			</li>
+			<li>
+				<a href="{{ '/faq' | prepend: site.baseurl }}">
+					<h3>Faq</h3>
+					<p></p>
+				</a>
+			</li>
+		</ul>
+	</section>
+	<!-- Actions -->
+	<section>
+		<ul class="icons">
+			<li>
+				<a href="https://instagram.com/Alsalafiyyah" class="fa-instagram" target="_blank">
+					<span class="label">Instagram</span>
+				</a>
+			</li>
+			<li>
+				<a href="{{ '/feed' | prepend: site.baseurl }}" class="fa-rss">
+					<span class="label">RSS</span>
+				</a>
+			</li>
+			<li>
+				<a href="#" class="fa-envelope">
+					<span class="label">Email</span>
+				</a>
+			</li>
+		</ul>
+	</section>
+</section>

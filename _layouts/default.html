@@ -1,24 +1,17 @@
 <!DOCTYPE html>
 <html>
-  {% include head.html %}
-  <body>
-  {% include navigation.html %}
-    <main>
-      {{ content }}
-    </main>
- <script
-     src="https://cdn.rawgit.com/christian-fei/Simple-Jekyll-Search/master/dest/simple-jekyll-search.min.js"></script>
- <script>
-     window.simpleJekyllSearch = new SimpleJekyllSearch({
-         searchInput: document.getElementById('search-input'),
-         resultsContainer: document.getElementById('results-container'),
-         json: '/search.json',
-         searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
-         noResultsText: 'No results found',
-         limit: 10,
-         fuzzy: false,
-         exclude: ['Salam']
-     })
- </script>
-  </body>
+{% include head.html %}
+<body>
+{% include sidebar.html %}
+  <div id="wrapper">
+   <div id="main">
+     <article class="post">
+     {% include header.html %}
+     {{ content }}
+     </article>
+{% include pagination.html %}
+   </div>
+  </div>
+{% include scripts.html %}
+</body>
 </html>
