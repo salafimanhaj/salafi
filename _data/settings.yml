@@ -19,3 +19,9 @@ sidebar_menu:
     link: ../../wahhabis
   - name: Faq
     link: /faq/
+
+placeholder_input:
+  placeholder: Search a fatwa
+
+
+
