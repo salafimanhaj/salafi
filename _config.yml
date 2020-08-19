@@ -24,6 +24,7 @@ plugins:
   - jekyll-multiple-languages
 permalink: /:title/
 paginate:       8
+paginate_path:  "/index/page:num"
 exclude:
   - .gitignore
   - Gemfile
