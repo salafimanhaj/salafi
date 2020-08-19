@@ -9,8 +9,10 @@ permalink: /wahhabism/
     {% if post.url %}
     <li>
     <article>
-      <header><h3><a href="{{ post.url }}">{{ post.title }}</a></h3></header>
+      <header>
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
       <time class="published" datetime="{{ post.hijri | post.hijri.name }}">{{ post.hijri | post.hijri.name }}</time>
+      </header>
     </article>
     </li>
     {% endif %}
