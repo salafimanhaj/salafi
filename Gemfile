@@ -10,4 +10,5 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-pdf-embed"
   gem "jekyll-archives"
+  gem "jekyll-multiple-languages"
 end

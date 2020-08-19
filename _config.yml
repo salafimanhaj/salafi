@@ -6,6 +6,8 @@ email: salafiyyah@outlook.sa
 author:
   name:         Instagram@Alsalafiyyah
   email:        alsalafiyyah@icloud.com
+languages:          ['en', 'ar']
+language_default:   'en'
 markdown:       kramdown
 theme:     future-imperfect-jekyll-theme
 remote_theme: andrewbanchich/future-imperfect-jekyll-theme
@@ -19,6 +21,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-pdf-embed
   - jekyll-archives
+  - jekyll-multiple-languages
 permalink: /:title/
 paginate:       8
 exclude:
