@@ -18,6 +18,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-pdf-embed
+  - jekyll-redirect-from
 permalink: /:title/
 paginate:       8
 exclude:

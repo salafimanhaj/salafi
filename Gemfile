@@ -10,4 +10,5 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-pdf-embed"
   gem "kramdown", ">= 2.3.0"
+  gem 'jekyll-redirect-from'
 end
