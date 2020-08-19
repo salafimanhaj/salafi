@@ -19,7 +19,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-pdf-embed
 permalink: /:title/
-paginate:       4
+paginate:       8
 exclude:
   - .gitignore
   - Gemfile
