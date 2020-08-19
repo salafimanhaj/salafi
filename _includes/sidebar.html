@@ -9,28 +9,13 @@
 	<!-- Links -->
 	<section>
 		<ul class="links">
+                {% for item in site.data.sidebar_menu %}
 			<li>
-				<a href="{{ site.baseurl }}/">
-					<h3>Home</h3>
+				<a href="{{ item.link }}">
+					<h3>{{ item.name }}</h3>
 				</a>
 			</li>			
-			<li>
-				<a href="{{ '/base' | prepend: site.baseurl }}">
-					<h3>Knowledge base</h3>
-				</a>
-			</li>
-			<li>
-				<a href="../../wahhabis">
-					<h3>Wahhabism, what is it?</h3>
-					<p></p>
-				</a>
-			</li>
-			<li>
-				<a href="{{ '/faq' | prepend: site.baseurl }}">
-					<h3>Faq</h3>
-					<p></p>
-				</a>
-			</li>
+                {% endfor %}
 		</ul>
 	</section>
 	<!-- Actions -->

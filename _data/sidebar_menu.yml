@@ -1,0 +1,8 @@
+﻿- name: Home
+  link: /
+- name: Knowledge base
+  link: /base/
+- name: Wahhabism, what is it?
+  link: ../../wahhabis
+- name: Faq
+  link: /faq/
